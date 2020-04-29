@@ -165,7 +165,7 @@ http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
 http://cdn763.stm.trueid.net:80/live1/174_th_m_high_tidapp.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=djDbASqJk3X0U%2BSfx4QJnz9Fuu3XRC%2BRd7EfbvcdA%2BjGZ5rv3ZvH4SZGz%2BCiRBdnknq%2Bcn0n3RAOOVB7VEJy%2BW0GYuLTMGLgSmwtPtlV3mY6OilcKw45Pqkfh34e9PzHXMY
 
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586190309650_movie_image.jpg&d=movie',Fox Thai
-https://livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+http://streaming-fast.com/covid22_1ive/foxthai/playlist.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586825765584_movie_image.png&d=movie',FOXLIFE
 http://160.119.77.50/iptv/hd-foxlife.stream/chunks.m3u8
 #EXTINF:-1 group-title='MOVIE LIVE'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583824124794_movie_image.png&d=movie',Fox Crime HD
