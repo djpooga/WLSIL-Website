@@ -273,10 +273,12 @@ http://191.96.77.13:22095/movie2/2019/Mary.2019.1080p.Zoom.TH.mp4/index.m3u8
 https://cdn5.cdn9x.com/1vf1djf3/720p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/57.jpg",The Body ศพที่หายไป
 https://cdn5.cdn9x.com/c8bqloj3/1080p.m3u8
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/56.jpg",หน่าฮ่าน Nha Harn
+https://cdn5.cdn9x.com/mgbkanmo/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/55.jpg",The Rookies ทีมเฟี้ยวตัดเหลี่ยมคน
+https://cdn5.cdn9x.com/6kpb1nf2/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/54.jpg",บางกอก…สยอง Bangkok Dark Tales
+https://cdn5.cdn9x.com/i9te0m5p/1080p.m3u8
 
 
 
