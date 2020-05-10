@@ -380,7 +380,7 @@ https://cdn4.cdn9x.com//t62r2t9l//1080p.m3u8
 https://cdn5.cdn9x.com//5nr2c3jb//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3840.jpg",Dolphin Tale 2มหัศจรรย์โลมาฟัวใจนักสู้2
 https://cdn5.cdn9x.com//ld78kp//1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3839.jpg",Dolphin Taleมหัศจรรย์โลมาฟัวใจนักสู้
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es//uploads//video_thumb//3839.jpg",Dolphin Taleมหัศจรรย์โลมาฟัวใจนักสู้
 https://cdn5.cdn9x.com//sfamkgmi//720p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3838.jpg",Sonic the Hedgehogโซนิค เฮดจ์ฮ๊อค
 https://cdn5.cdn9x.com//lbt7bsc8//1080p.m3u8
@@ -436,16 +436,17 @@ https://cdn4.cdn9x.com//uopj4ja2//1080p.m3u8
 https://cdn4.cdn9x.com//58f747l1//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3810.jpg",Now You See Meอาชญากลปล้นโลก
 https://cdn5.cdn9x.com//sal5ebb8//1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3809.jpg",The Dinosaur Project
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3809.jpg",The Dinosaur Projectเจาะแดนลี้ลับช๊อคโลก
 https://cdn5.cdn9x.com//p1fe229i//1080p.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3807.jpg",Assassinsมหาประลัยตัดมหาประลัย
+https://cdn4.cdn9x.com//81brik9p//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3806.jpg",Tears of the Sunผ่ายุทธการสุริยะทมิฬ
+https://cdn5.cdn9x.com//gjn7pa1i//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3805.jpg",Life of Piชีวิตอัศจรรย์ของพาย
+https://cdn5.cdn9x.com//n1a6u6i5//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3804.jpg",Hachi: A Dog's Taleฮาชิหัวใจพูดได้
+https://cdn4.cdn9x.com//aj89jrud//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
 
