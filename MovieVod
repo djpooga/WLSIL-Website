@@ -1,6 +1,21 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4036.jpg",Bull
+https://cdn1.cdn9x.com//vc464qj9//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4035.jpg",Untraceableโชว์ฆ่าถ่ายทอดสด
+https://cdn1.cdn9x.com//rba62aku//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4034.jpg",กระเบนราหู
+https://cdn1.cdn9x.com//6956ik76//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4033.jpg",Frenzy
+https://cdn1.cdn9x.com//m0avp849//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4032.jpg",Caught
+https://cdn1.cdn9x.com//bgr14826//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4031.jpg",Booksmart
+https://cdn1.cdn9x.com//kc889o4u//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4030.jpg",Tales from the Crypt: Demon Knightคืนนรกแตก
+https://cdn1.cdn9x.com//evhct6bd//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4029.jpg",Beowulfขุนศึกโค่นอสูร
+https://cdn1.cdn9x.com//inkrridd//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4028.jpg",Sweet Boy
 https://cdn1.cdn9x.com//sf5pbmgf//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4022.jpg",Khun Phaen Begins ขุนแผน ฟ้าฟื้น
