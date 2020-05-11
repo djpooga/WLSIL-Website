@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4040.jpg",The Guardianวีรบุรุษพันธุ์อึดฝ่าทะเลเดือด
+https://cdn5.cdn9x.com//9g44rarq//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4039.jpg",The Next Three Daysแผนอัจฉริยะแหกด่านหนีนรก
+https://cdn5.cdn9x.com//1sp5iurf//720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4038.jpg",Rampantนครนรกซอมบี้คลั่ง
+https://cdn1.cdn9x.com//t41prn3a//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4037.jpg",Kurskหนีตายโครตนรกรัสเซีย
+https://cdn5.cdn9x.com//rv4tpihd//1080p.m3u8
+
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4036.jpg",Bull
 https://cdn1.cdn9x.com//vc464qj9//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4035.jpg",Untraceableโชว์ฆ่าถ่ายทอดสด
