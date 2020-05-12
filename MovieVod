@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4044.jpg",Operation Red Seaยุทธภูมิทะเลเดือด
+https://cdn5.cdn9x.com//01s1r5g8//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4043.jpg",โครตพยัคฆ์หยินยาง
+https://cdn5.cdn9x.com//t8rugehe//720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4042.jpg",Behind Enemy Linesแหกมฤตยูแดนข้าศึก
+https://cdn4.cdn9x.com//dr5lkfug//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4041.jpg",Enemy at the Gatesกระสุนสังหารพลิกโลก
+https://cdn5.cdn9x.com/gb0sj325/1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4040.jpg",The Guardianวีรบุรุษพันธุ์อึดฝ่าทะเลเดือด
 https://cdn5.cdn9x.com//9g44rarq//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4039.jpg",The Next Three Daysแผนอัจฉริยะแหกด่านหนีนรก
@@ -8,7 +15,6 @@ https://cdn5.cdn9x.com//1sp5iurf//720p.m3u8
 https://cdn1.cdn9x.com//t41prn3a//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4037.jpg",Kurskหนีตายโครตนรกรัสเซีย
 https://cdn5.cdn9x.com//rv4tpihd//1080p.m3u8
-
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4036.jpg",Bull
 https://cdn1.cdn9x.com//vc464qj9//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4035.jpg",Untraceableโชว์ฆ่าถ่ายทอดสด
