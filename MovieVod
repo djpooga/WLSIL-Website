@@ -606,7 +606,7 @@ https://cdn5.cdn9x.com//mcf3rc2o//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3723.jpg",Bad Boys for Lifeคู่หูขวางนรกตลอดกาล
 https://cdn5.cdn9x.com/6miv525c/1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3722.jpg",บุษบา
-https://cdn5.cdn9x.com//9tcosacm//720p.m3u8
+http://apptvhd.esy.es//uploads//video_thumb//3722.jpg
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3721.jpg",Star Wars: The Rise of Skywalkerกำเนิดใหม่สกายวอคเกอร์
 https://cdn5.cdn9x.com//ctibj79k//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3720.jpg",Go!กล้าฝันพลังโกคาร์ท
@@ -629,7 +629,19 @@ https://cdn4.cdn9x.com//d09un1au//720p.m3u8
 https://cdn5.cdn9x.com/nb576tbp/1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3708.jpg",The Last Witch Hunterเพชรฆาตแม่มด
 https://cdn5.cdn9x.com//6etgag9o//1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3707.jpg",Crimson Peakปราสาทสีเลือด
+https://cdn5.cdn9x.com//n467qhe7//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3706.jpg",No Escapeหนีตายฝ่านรกข้ามแดน
+https://cdn5.cdn9x.com//b0fhjj1o//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3705.jpg",The Martianกู้ตาย140ล้านไมล์
+https://cdn5.cdn9x.com//rmbmcsrt//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3704.jpg",Pawn Sacrificeเดิมพันชาติรุกฆาตโลก
+https://cdn5.cdn9x.com//329e74q//720p.m3u8
+
+
+
+
+
 
 
 
