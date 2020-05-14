@@ -1,4 +1,29 @@
 #EXTM3U
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4059.jpg",Taken 3ตนคมล่าไม่ยั้ง3
+https://cdn5.cdn9x.com//ecu01mbc//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4058.jpg",Taken 2ตนคมล่าไม่ยั้ง2
+https://cdn5.cdn9x.com//882qfm7v//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4057.jpg",Takenสู้ไม่รู้จักตาย
+https://cdn5.cdn9x.com//2jm1bm8o//720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4056.jpg",Exodus: Gods and Kings
+https://cdn5.cdn9x.com/mi6g60c0/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4055.jpg",Sausage Partyปาร์ตี้ไส้กรอก
+https:/cdn5.cdn9x.com/h2g0u11v/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4054.jpg",The Day the Earth Stood Still
+https://cdn1.cdn9x.com//6kc6av8m//1080p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4044.jpg",Operation Red Seaยุทธภูมิทะเลเดือด
 https://cdn5.cdn9x.com//01s1r5g8//1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4043.jpg",โครตพยัคฆ์หยินยาง
