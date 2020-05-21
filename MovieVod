@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4083.jpg",Shanghai Noonคู่ใหญ่ฟัดข้ามโลก
+https://cdn-edge.cdn9x.com//t26008sm//1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/3708.jpg",Shanghai Knightsคู่ใหญ่ฟัดทะลายโลก
+https://cdn-edge.cdn9x.com//sqf40h03//720p.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4073.jpg",Fireproofแกร่งกว่าไฟหัวใจวีระบุรุษ
 https://cdn1.cdn9x.com//8h33n1g//480p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4072.jpg",One Hour Photoโฟโต้จิตแตก
