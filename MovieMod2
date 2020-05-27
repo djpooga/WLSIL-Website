@@ -66,15 +66,15 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538323_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538322_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/UltimateJustice0.jpg",UltimateJustice
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538317_720p.mp4//index.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Juveniles0.jpg",Juveniles(2018)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538316_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Curvature0.jpg",Curvature(2017)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538315_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BornToDance0.jpg",BornToDance(2015)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538314_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Khun.Phaen.Begin0.jpg",ขุนแผนฟ้าฟื้น
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537923_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
 
