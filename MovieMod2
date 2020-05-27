@@ -50,6 +50,10 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538331_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538330_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/10MinutesGone0.jpg",10MinutesGone(2019)
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538329_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheLastMan0.jpg",TheLastMan(2019)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538328_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ShadowWolves0.jpg",ShadowWolves(2019)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538327_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
