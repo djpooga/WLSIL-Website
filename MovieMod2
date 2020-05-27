@@ -26,7 +26,7 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538705_1080p.mp4//ind
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538704_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Penguin0.jpg",Penguins(2019)
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538702_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Penguin0.jpg",jacob Ladder(2019)
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQC5FplzsPZAjI1_5HmLJJ09UHjs84rTJXXPiSqDgHaEMiHGK_&usqp=CAU",jacob Ladder(2019)
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538702_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/SemperFi0.jpg",Semper Fi(2019)
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538701_720p.mp4//index.m3u8
@@ -40,6 +40,21 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538698_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538697_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQB6Gr47EelMC91tAQcMFZBVM9rj1RxbhmRAH5hpV2vqwMcRACM&usqp=CAU",drone wars (2016)
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538697_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Bikeman20.jpg",ไบค์แมน2ศักรินตูดหมึก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538333_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Sonic.The.Hedgehog0.jpg",โซนิค แฮดจ์ฮอค
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538332_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Abduction00.jpg",Abduction(2019)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538331_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheVanishing0.jpg",TheVanishing(2018)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538330_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/10MinutesGone0.jpg",10MinutesGone(2019)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538329_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+
+
+
+
 
 
 
