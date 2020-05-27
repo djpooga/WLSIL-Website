@@ -132,20 +132,20 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537290_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537289_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/FaceOff0.jpg",ครีมมนุษย์
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537288_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/HellfirePass0.jpg",ช่องเขาขาด
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537287_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/HollowPoint0.jpg",HollowPoint
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537286_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/SecondOpinion0.jpg",SecondOpinion
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537285_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DrivenToDance0.jpg",DrivenToDance
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537284_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/IsleOfTheDead0.jpg",IsleOfTheDead
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537283_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ExtractionDay0.jpg",ExtractionDay
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537282_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Bad.Education0.jpg",Bad.Education
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//EN_0537281_720p.mp4//index.m3u8
 
 
 
