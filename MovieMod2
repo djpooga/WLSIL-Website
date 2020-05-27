@@ -110,7 +110,7 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537301_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537300_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheGrudge0.jpg",บ้านผีดุ
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537299_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://images.app.goo.gl/L9e9wVGf9qsGrUHK7",อาถรรพ์แม่มดโบราณ
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTp-LBQRG5RTdzgV0ZSxGEi0gihUTzMZBLS-nF6xmRXvZ2S3Rw&usqp=CAU",อาถรรพ์แม่มดโบราณ
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537298_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheNewKing0.jpg",TheNewKingOfComedy2019
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537297_720p.mp4//index.m3u8
@@ -146,6 +146,31 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537283_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537282_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Bad.Education0.jpg",Bad.Education
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//EN_0537281_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Extraction0.jpg",Extraction
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536870_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/thaibanBnk0.jpg",จากใจผู้สาวคนนี้
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536869_720p.mp4//index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
