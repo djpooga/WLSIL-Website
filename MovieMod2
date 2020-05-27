@@ -146,13 +146,13 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537283_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0537282_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Bad.Education0.jpg",Bad.Education
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//EN_0537281_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Extraction0.jpg",Extraction
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Extraction0.jpg",Extractionคนระห่ำภาระกิจเดือด
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536870_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/thaibanBnk0.jpg",จากใจผู้สาวคนนี้
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536869_720p.mp4//index.m3u8
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheKillTeam0.jpg",ทีมสังหาร
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536868_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
 
