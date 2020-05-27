@@ -22,7 +22,27 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538707_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538706_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Zombies10.jpg",ZOMBIE
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538705_1080p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",CRYPTO
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2LNWPXqST2CEpw_5ERfIL19EFUb-ZegxY6JCrGCnA2wStRaEUj2kK-_IqYw&s=10",CRYPTO
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538704_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Penguin0.jpg",Penguins(2019)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538702_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Penguin0.jpg",jacob Ladder(2019)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538702_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/SemperFi0.jpg",Semper Fi(2019)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538701_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheBigTrip0.jpg",The Big Trip(2019)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538700_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/EnchantedPrincess0.jpg",EnchantedPrincess(2018)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538699_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TragedyGirls0.jpg",TragedyGirls(2017)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538698_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DroneWars0.jpg",DroneWars(2016)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538697_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQB6Gr47EelMC91tAQcMFZBVM9rj1RxbhmRAH5hpV2vqwMcRACM&usqp=CAU",drone wars (2016)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538697_720p.mp4//index.m3u8
+
+
+
 
 
 
