@@ -6,6 +6,27 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535767_1080p.mp4//ind
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538713_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DarkWaters00.jpg",พลิกน้ำเน่าคดีฉาว
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538712_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/UndercoverPunchandGun0.jpg",ทะลายแผนอาชญากรรมระห่ำโลก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538711_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/The.Invisible.Man0.jpg",มนุษย์ล่องหน(R)​
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533708_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/WeedsOnFire0.jpg",รวมใจสู้เพื่อฝัน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538710_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Waves0.jpg",WAVE
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538709_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/MortalKombatLegends0.jpg",MORTAL KOMBAT LEGENDS SCORPION’S REVENGE (2020)
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538708_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheFaithOfAnnaWaters0.jpg",กำเนิดอำมหิต
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538707_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Zombies.20.jpg",ZOMBIE2
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538706_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Zombies10.jpg",ZOMBIE
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538705_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+
+
+
+
 
 
 
