@@ -54,17 +54,18 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538329_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538328_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ShadowWolves0.jpg",ShadowWolves(2019)
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538327_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Prey0.jpg",Prey
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538326_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/YouMightBeTheKiller0.jpg",YouMightBeTheKiller
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538325_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/WildRose0.jpg",WildRose
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538324_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/AViolentSeparation0.jpg",AViolentSeparation
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538323_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Burn0.jpg",Burn
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538322_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/UltimateJustice0.jpg",UltimateJustice
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538317_720p.mp4//index.m3u8
 
 
 
