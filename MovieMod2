@@ -239,14 +239,15 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535754_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535753_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Dead-in-a-Week0.jpg",Dead-in-a-Week
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535752_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Negative0.jpg",Negative
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535751_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/SparkASpace0.jpg",SparkASpaceTail
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535750_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Project.Gutenberg0.jpeg",Project.Gutenbergเกมหักเหลี่ยมเฉียนคม
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535266_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Brahms.The.Boy.Ii0.jpg",ตุ๊กตาซ่อนผี2
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533406_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
-
-
-
-
-
 
 
 
