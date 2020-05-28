@@ -227,19 +227,19 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535760_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535759_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/GenesisTheFall0.jpg",GenesisTheFall
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535758_720p.mp4//index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ISeeYou0.jpg",ISeeYou
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535757_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/RiotGirls0.jpg",RiotGirls
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535756_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Sleeper0.jpg",Sleeper
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535755_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Gotti0.jpg",Gotti
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535754_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheBigTake0.jpg",TheBigTake
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535753_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Dead-in-a-Week0.jpg",Dead-in-a-Week
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535752_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
 
