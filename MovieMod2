@@ -247,18 +247,18 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535750_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535266_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Brahms.The.Boy.Ii0.jpg",ตุ๊กตาซ่อนผี2
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533406_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BetterDays0.jpg",BetterDaysไม่มีวันไม่มีฉันไม่มีเธอ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535265_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/The.Good.Liar0.png",The.Good.Liar
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535264_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/22Chaser0.jpg",22Chaser
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535262_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DraggedAcrossConcrete0.jpg",DraggedAcrossConcrete
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535261_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheBromleyBoy0.jpg",TheBromleyBoy
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535258_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/SeparatedAtBirth0.jpg",SeparatedAtBirth
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535256_720p.mp4//index.m3u8
 
 
 
