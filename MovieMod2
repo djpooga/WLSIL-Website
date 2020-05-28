@@ -203,12 +203,30 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536335_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536333_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ADoggone0.jpg",ADoggone
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536332_720p.mp4//index.m3u8
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/CampCoolKids0.jpg",CampCoolKids
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536331_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/A.R.C.H.I.E0.jpg",A.R.C.H.I.E2
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536330_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Songkransatann0.jpg",สงกรานต์สะท้านโลกัน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0536145_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/LoveandRunth0.jpg",มิสเตอร์ดื้อกันท่าเหรียญทอง
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535769_480p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/My.Spy0.jpg",พยัคฆ์ร้ายสปายแสบ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535768_480p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Death.Fighter0.jpg",Death.Fighter
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535764_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/The.Exception0.jpg",The.Exception
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535763_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/The-Song-of-Names0.jpg",The-Song-of-Namesบทเพลงผู้สาบสูญ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535762_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheSouveni0.jpg",TheSouvenir
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535761_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Luce0.jpg",Luce
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535760_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BeastOfBurden00.jpg",BeastOfBurden
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535759_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/GenesisTheFall0.jpg",GenesisTheFall
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0535758_720p.mp4//index.m3u8
 
 
 
