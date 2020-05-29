@@ -377,16 +377,16 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534262_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533703_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Acceleration0.jpg",Acceleration
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533702_720p.mp4//index.m3u8
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/StraightOuttaCompton0.jpg",เมืองเดือดแร๊ปเปอร์กบฏ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533701_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheBrave0.jpg",TheBrave
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533700_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/VikingDestiny0.jpg",VikingDestiny
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533699_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ThePartyCrasher.jpg",ThePartyCrasher
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533698_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/RoundOfYourLife0.jpg",RoundOfYourLife
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533697_720p.mp4//index.m3u8
 
 
 
