@@ -401,12 +401,12 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533692_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533691_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DeadShack0.jpg",DeadShack
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533689_720p.mp4//index.m3u8
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/YouCanTutu0.jpg",YouCanTutu
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533688_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DamSharks0.jpg",DamSharks
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533687_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ARisingTide0.jpg",ARisingTide
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533686_720p.mp4//index.m3u8
 
 
 
