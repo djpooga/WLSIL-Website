@@ -367,16 +367,16 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533713_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533712_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ThePeanutButter0.jpg",คู่ซ่าบ้าล่าฝัน
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533711_720p.mp4//index.m3u8
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheReaGhosts0.jpg",ช่องส่องผี
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533707_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/The-Copy0.jpg",ก๊อปปี้โชว์
+http://cdn-vod.kodi-live.com/hls/content/nss4/vod/TH_0533706_480p.mp4/index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/The-Devil-of-Village0.png",ตำนานอู่ฉางแห่งสำนักตรวจการหลวง
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534262_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/MoodIndigo0.jpg",รักนี้มหัศจรรย์
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533703_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Acceleration0.jpg",Acceleration
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533702_720p.mp4//index.m3u8
 
 
 
