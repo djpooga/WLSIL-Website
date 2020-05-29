@@ -407,6 +407,40 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533688_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533687_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ARisingTide0.jpg",ARisingTide
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533686_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/AwayAndBack0.jpg",AwayAndBack
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533685_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Bad.Boys.For.Life0.jpg",คู่หูขวางนรกตลอดกาล
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533408_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Star.Wars.Episode.Ix0.jpg",กำเนิดใหม่สกายวอคเกอร์
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533407_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Dew0.jpg",ดิวไปด้วยกันนะ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533404_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheLighthouse0.jpg",TheLighthouse
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533403_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Ufo20180.jpg",พลิกมิติยูเอฟโอ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533402_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/timefreak0.jpg",timefreak
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533401_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/AgainstTheNight0.jpg",AgainstTheNight
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533400_720p.mp4//index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
