@@ -357,7 +357,42 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533784_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533783_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheRow0.jpg",TheRow
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533782_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Angelhasfallen0.jpg",ฝ่ายุทธการดับแผนอหังการ์
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533715_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheCurrentWar0.jpg",สงครามไฟฟ้าคนขั้วอัจฉริยะ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533714_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Triple.Frontier0.jpeg",ปล้นล่าท้านรก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533713_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Judy0.jpg",Judy
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533712_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ThePeanutButter0.jpg",คู่ซ่าบ้าล่าฝัน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533711_720p.mp4//index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
