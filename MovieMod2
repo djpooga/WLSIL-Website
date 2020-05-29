@@ -311,7 +311,25 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534275_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534274_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/SupermanRedSon0.jpg",SupermanRedSon
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534272_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheSoundOfSilence0.jpg",TheSoundOfSilence
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534271_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/HoneyBoy0.jpg",HoneyBoy
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534270_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Knucklebal0.jpg",ขว้างให้หัวใจแบะ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534269_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/MarianneLeonard0.jpg",MarianneLeonard
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534268_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheLastBlackMan0.jpg",TheLastBlackMan
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534267_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheFaceReader0.jpg",ลิขิตฟ้าจอมบัลลังก์
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534266_480p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheMurderOfNicole0.jpg",TheMurderOfNicole
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534265_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Awake00.jpg",Awake
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534264_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Deadsight0.jpg",Deadsight
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534263_720p.mp4//index.m3u8
+
 
 
 
