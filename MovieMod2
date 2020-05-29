@@ -305,13 +305,13 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534279_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534676_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Motherless.Brooklyn0.jpg",Motherless.Brooklynสืบกระตุกโค่นอิทธิพลมืด
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534276_720p.mp4//index.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Downton.Abbey0.jpg",Downton.Abbey
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534275_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/AdoptAHighway0.jpg",ทางเดินที่สำคัญ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534274_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/SupermanRedSon0.jpg",SupermanRedSon
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534272_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
 
