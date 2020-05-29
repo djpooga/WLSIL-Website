@@ -329,6 +329,27 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534265_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534264_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Deadsight0.jpg",Deadsight
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534263_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/IFeelPretty0.jpg",IFeelPretty
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534262_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheAmityvilleMurders0.jpg",TheAmityvilleMurders
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534261_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/AvengeTheCrows0.jpg",AvengeTheCrows
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534260_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ClassRank0.jpg",ClassRank
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534259_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Captive0.jpg",Captive
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534258_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/HolidayJoy0.jpg",HolidayJoy
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0534257_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+
+
+
+
+
+
+
+
 
 
 
