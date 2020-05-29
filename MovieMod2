@@ -423,14 +423,14 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533402_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533401_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/AgainstTheNight0.jpg",AgainstTheNight
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533400_720p.mp4//index.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheManWhoKilled0.jpg",TheManWhoKilled
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533399_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheHumanityBureau0.jpg",ที่ทำการมนุษย์ศาสตร์
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533398_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheSisterBrothers0.jpg",TheSisterBrothers
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0533397_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/GoKarts0.jpg",กล้าฝันพลังโกคาร์ท
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532975_720p.mp4//index.m3u8
 
 
 
