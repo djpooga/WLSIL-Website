@@ -487,16 +487,16 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532235_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532207_480p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Jumanji.The.Next.Level0.jpeg",เกมดูดโลกตะลุยด่านมหัศจรรย์
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532206_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Toddzy0.jpg",ตุ๊ดซี่&เดอะเฟด
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532205_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheCave00.jpg",นางนอน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532204_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/KnivesOut00.jpg",ฆาตกรรมหรรษาใครฆ่าปู
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532203_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Primal00.jpg",โครตคนมหากาฬ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532202_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Master.Z.Ip.Man0.jpg",ยิปมัน ตำนานมาสเตอร์Z
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532201_720p.mp4//index.m3u8
 
 
 
