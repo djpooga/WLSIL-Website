@@ -561,6 +561,28 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530696_1080p.mp4//ind
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530695_1080p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Countdown00.jpg",เคาท์ดาวน์ตาย
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530694_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/CharlieAngelsZ30.jpg",นางฟ้าชาลี
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530693_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DeathKiss0.jpg",DeathKiss
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530692_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/WesternStars0.jpg",WesternStars
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530691_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/2year0.jpg",รัก2ปียินดีคืนเงิน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530097_480p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ChildrenOfSea0.jpg",รุกะผจญโลกใต้ทะเล
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530096_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+
+
+
+
+
+
+
+
+
+
+
 
 
 
