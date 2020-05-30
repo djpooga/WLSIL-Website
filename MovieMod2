@@ -581,8 +581,8 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530090_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530089_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/FindingSteveMcqueen0.jpg",FindingSteveMcqueen
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530088_720p.mp4//index.m3u8
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheRoom0.jpg",ห้องขอหลอน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530702_480p.mp4//index.m3u8
 
 
 
