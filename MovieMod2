@@ -497,6 +497,21 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532203_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532202_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Master.Z.Ip.Man0.jpg",ยิปมัน ตำนานมาสเตอร์Z
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532201_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Little.Women0.jpg",Little.Women
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//EN_0532200_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/EveryDay0.jpg",EveryDay
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532197_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/In.Full.Bloom0.jpg",In.Full.Bloom
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532196_720p.mp4//index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
