@@ -545,10 +545,10 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0531382_480p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0531381_480p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Buoyancy0.jpg",Buoyancy
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0531380_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Code80.jpg",Code8
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530703_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT5HfzG65JADzshOPTBtjK8DOKuDJBlInvyxboLbdsuvpKka7v&usqp=CAU",เผด็จศึกยึดนิวยอร์ก
+http://cdn-vod.kodi-live.com/hls/content/nss4/vod/TH_0530700_1080p.mp4/index.m3u8
 
 
 
