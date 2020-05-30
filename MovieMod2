@@ -549,18 +549,18 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0531380_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530703_1080p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT5HfzG65JADzshOPTBtjK8DOKuDJBlInvyxboLbdsuvpKka7v&usqp=CAU",เผด็จศึกยึดนิวยอร์ก
 http://cdn-vod.kodi-live.com/hls/content/nss4/vod/TH_0530700_1080p.mp4/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/FordFerrari0.jpg",ใหญ่ชนยักษ์ซิ่งทะลุไมล์
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530699_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Midway30.jpg",อมเริกาถล่มญี่ปุ่น
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530698_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DoraemonZ30.jpg",Doraemon
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530697_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BlackandBlueZ30.jpg",พลิกแผนลับสับตำรวจ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530696_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Manhun00.jpg",คลั่งล้างแค้น
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530695_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Countdown00.jpg",เคาท์ดาวน์ตาย
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530694_1080p.mp4//index.m3u8
 
 
 
