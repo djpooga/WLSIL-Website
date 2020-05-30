@@ -457,13 +457,13 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532883_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532882_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Stretch00.jpg",ซิ่งท้าชนล้มแผนเจ้าพ่อ
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532881_720p.mp4//index.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Stockholm0.jpg",Stockholm
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532974_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/My.Name.Is.Lenny0.jpg",My.Name.Is.Lenny
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532878_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheWitchFiles0.jpg",TheWitchFiles
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532877_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
 
