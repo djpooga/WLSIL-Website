@@ -503,22 +503,22 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//EN_0532200_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532197_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/In.Full.Bloom0.jpg",In.Full.Bloom
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532196_720p.mp4//index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Iron.Sky00.jpg",Iron.Sky
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532195_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Outlawed0.jpg",Outlawed0.jpg",Outlawed
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532194_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Beast.Of.Burden0.jpg",Beast.Of.Burden
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532193_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Scooby-DooRe0.jpg",Scooby-Doo
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532192_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Snatchers0.jpg",Snatchers
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532191_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/2036Origin0.jpg",2036 Origin Unknown
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532190_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Stan&llie0.jpg",Stan&llie
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532189_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/FastColor0.jpg",FastColor
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532188_720p.mp4//index.m3u8
 
 
 
