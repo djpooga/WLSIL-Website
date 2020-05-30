@@ -441,7 +441,28 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532972_480p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532971_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/AfterEverything0.jpg",AfterEverything
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532967_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DangerClose20.jpg",ฝ่าสมรภูมิลองแทน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532890_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DeathRace40.jpg",ซิ่งสั่งตาย4
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532889_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Bright0.jpg",Bright
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532886_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/HowItEnds0.jpg",หายนะวันสิ้นโลก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532885_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheGangster0.jpg",แก๊งตำรวจปีศาจ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532884_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/VIP0.jpg",VIP
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532883_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/CrouchingTiger20.jpg",พยัคฆ์ระห่ำมังกรผยองโลก2
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532882_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Stretch00.jpg",ซิ่งท้าชนล้มแผนเจ้าพ่อ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532881_720p.mp4//index.m3u8
+
+
+
+
+
+
 
 
 
