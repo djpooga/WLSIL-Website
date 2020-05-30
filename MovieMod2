@@ -571,16 +571,16 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530691_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530097_480p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ChildrenOfSea0.jpg",รุกะผจญโลกใต้ทะเล
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530096_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Dragon.Quest0.jpg",Dragon.Quest
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530095_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Uglydolls00.jpg",ผจญแดนตุ๊กตามหัศจรรย์
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530094_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/LastChristmas0.jpg",LastChristmas
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530090_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/The.Goldfinch0.jpg",The.Goldfinch
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530089_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/FindingSteveMcqueen0.jpg",FindingSteveMcqueen
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530088_720p.mp4//index.m3u8
 
 
 
