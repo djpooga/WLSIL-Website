@@ -473,6 +473,25 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532747_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532746_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/the.rake0.jpg",the.rake
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532745_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DieTomorrow0.jpg",DieTomorrowพรุ่งนี้ตาย
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532744_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Vic0.jpg",Vice
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532743_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/AtEternity0.jpg",AtEternity
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532741_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ModestHeroes0.jpg",ModestHeroes
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//EN_0532733_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/SpenserConfidential0.jpg",ลุยล่าปราบทรชน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532235_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheCloset0.jpg",ตู้นรกไม่ได้ผุดไม่ได้เกิด
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532207_480p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Jumanji.The.Next.Level0.jpeg",เกมดูดโลกตะลุยด่านมหัศจรรย์
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532206_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+
+
+
+
 
 
 
