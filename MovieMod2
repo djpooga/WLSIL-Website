@@ -463,16 +463,16 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532974_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532878_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheWitchFiles0.jpg",TheWitchFiles
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532877_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BeSomebody0.jpg",BeSomebody
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532876_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/One.Piece.Stampede0.jpg",One.Piece.Stampede
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0518178_480p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheDelinquentSeaso0.jpg",TheDelinquentSeaso
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532747_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Mandy0.jpg",Mandy
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532746_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/the.rake0.jpg",the.rake
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0532745_720p.mp4//index.m3u8
 
 
 
