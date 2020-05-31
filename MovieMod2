@@ -25,9 +25,21 @@ http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Monster.20
 http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Poms.2019.hdtv_TH.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BadSamaritan0.jpg",BadSamaritan
 http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Bad.Samaritan.2018.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheQueenOfSin0.jpg",TheQueenOfSin
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//The.Queen.of.Sin.2018.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Boo0.jpg",Boo
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Boo.2018.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BreakingLegs0.jpg",BreakingLegs
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Breaking.Legs.2017.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Ride0.jpg",Ride
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Ride.2018.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/RiverRunsRed0.jpg",RiverRunsRed
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//River.Runs.Red.2018.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/ScalesMermaids0.jpg",ScalesMermaids
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Scales.Mermaids.Are.Real.2017.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BigBaby0.jpg",BigBaby
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Big.Baby.2015.hdtv_TH.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
 
 
 
