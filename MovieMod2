@@ -1,4 +1,43 @@
 #EXTM3U
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheCalloftheWild0.jpeg",เสียงเพรียกจากพงไพร
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//The.Call.Of.The.Wild.2020_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Code.80.jpg",ล่าคนโครตพลัง
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Code.8.2020_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/The.Girl.On.The.Train0.jpg",ปมหลอนรางมรณะ
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//The.Girl.On.The.Train.2016_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheLodge0.png",TheLodge
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//The.Lodge.2019_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Boboiboy0.jpeg",โบบอยบอยเดอะมูฟวี่
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Boboiboy.2016_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/CinderellaTheSecretPrince0.jpg",มนต์รักนางชินตาแข็งกับเจ้าชายหลังต​ึงเปรี๊ยะ
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Cinderella.And.The.Secret.Prince.2018_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/CoinLockerGirl0.jpg",CoinLockerGirl
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Coin.Locker.Girl.2015_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Franklyn0.jpg",Franklyn
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Franklyn.2008_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/RedDog2.jpg",RedDog2
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Red.Dog.True.Blue.2016.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/RedDog1.jpg",RedDog
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Red.Dog.2011_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Monster0.jpeg",Monster
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Monster.2014.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Poms0.jpg",Poms
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Poms.2019.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BadSamaritan0.jpg",BadSamaritan
+http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Bad.Samaritan.2018.hdtv_TH.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/05/The-Enchanting-Phantom-2020-%E0%B9%82%E0%B8%9B%E0%B9%80%E0%B8%A2%E0%B9%82%E0%B8%9B%E0%B9%82%E0%B8%A5%E0%B9%80%E0%B8%A2.png",THE ENCHANTING PHANTOM (2020) โปเยโปโลเย
 http://cdn.9koh.tv/poye2020.mp4
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Heartbeast0.jpg",ฮาร์ทบีท เสี่ยงนัก...รักมั้ยลุง
