@@ -81,7 +81,7 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538704_720p.mp4//inde
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Penguin0.jpg",Penguins(2019)
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538702_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQC5FplzsPZAjI1_5HmLJJ09UHjs84rTJXXPiSqDgHaEMiHGK_&usqp=CAU",jacob Ladder(2019)
-http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538702_720p.mp4//index.m3u8
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538703_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/SemperFi0.jpg",Semper Fi(2019)
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538701_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheBigTrip0.jpg",The Big Trip(2019)
@@ -634,12 +634,12 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530089_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530088_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheRoom0.jpg",ห้องขอหลอน
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530702_480p.mp4//index.m3u8
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/IHateKids0.jpg",IHateKids
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538703_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/To.All.The.Boys0.jpg",To.All.The.Boys
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530083_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Frozen.200.jpg",ปริศนาราชินีหิมะ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529985_1080p.mp4//index.m3u8
 
 
 
