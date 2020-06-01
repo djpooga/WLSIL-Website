@@ -640,9 +640,9 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0538703_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530083_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Frozen.200.jpg",ปริศนาราชินีหิมะ
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529985_1080p.mp4//index.m3u8
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Rambo50.jpg",นักรบคนสุดท้าย
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529984_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
 
