@@ -642,7 +642,40 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0530083_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529985_1080p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Rambo50.jpg",นักรบคนสุดท้าย
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529984_1080p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Zo0.jpg",เฟค Zoo สู้โว้ย
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529800_480p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/HOTELMUMBAI0.jpg",มุมไบเมืองนรกแตก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529799_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Allied0.jpg",สายลับพันธมิตร
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529798_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BangkokDarkTales0.jpg",บางกอกสยอง
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529797_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Theprey0.jpg",เกมคนรวย
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529796_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/AngrybirdsTheMovie20.jpg",AngrybirdsTheMovie2
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529538_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheAddamsFamily0.jpg",ตระกลูนี้ผียังหลบ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529537_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TakePoint0.jpg",ภาระกิจลับท้านรก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529536_720p.mp4//index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
