@@ -695,6 +695,28 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528596_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528595_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/NhaHarn0.jpg",หน้าฮาน
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528594_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/LuangtahMahaheng0.jpg",หลวงตามหาเฮง
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528165_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Critters.Attack0.jpg",กลิ้งงับๆบุกโลก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528157_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Ninokuni0.jpg",ศึกพิภพคู่ขนาน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528156_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/MojinTheWorm0.jpg",โมจิน หุบเขาหนอน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528155_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Fighting.With.My.Family0.jpg",สู้ถ้าฝันเพื่อครอบครัว
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527828_720p.mp4//index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
