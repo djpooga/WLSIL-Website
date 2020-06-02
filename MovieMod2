@@ -683,7 +683,26 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528835_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528601_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DoctorSleep0.jpg",DoctorSleepลางนรก
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528600_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BleedingSteel0.jpg",โครตใหญ่ฟัดเหล็ก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528599_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/KungFuLeague0.jpg",ยิปมันตะบันบรูซรีบี้หวงเฟยหง
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528598_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Integrity0.jpg",Integrity
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528597_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/LaplaceWitch0.jpg",ลาปลาซวิปลาส
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528596_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/The-Rookies0.png",ทีมเฟี้ยวตัดเหลี่ยมคน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528595_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/NhaHarn0.jpg",หน้าฮาน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528594_720p.mp4//index.m3u8
+
+
+
+
+
+
+
+
 
 
 
