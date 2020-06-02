@@ -39,17 +39,6 @@ http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//River.Runs
 http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Scales.Mermaids.Are.Real.2017.hdtv_TH.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BigBaby0.jpg",BigBaby
 http://cdn-vod.kodi-live.com//hls//content//nss3//vod//2020//movieup//Big.Baby.2015.hdtv_TH.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/05/The-Enchanting-Phantom-2020-%E0%B9%82%E0%B8%9B%E0%B9%80%E0%B8%A2%E0%B9%82%E0%B8%9B%E0%B9%82%E0%B8%A5%E0%B9%80%E0%B8%A2.png",THE ENCHANTING PHANTOM (2020) โปเยโปโลเย
 http://cdn.9koh.tv/poye2020.mp4
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Heartbeast0.jpg",ฮาร์ทบีท เสี่ยงนัก...รักมั้ยลุง
@@ -658,14 +647,14 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529538_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529537_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TakePoint0.jpg",ภาระกิจลับท้านรก
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529536_720p.mp4//index.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Paradisebeach0.jpg",Paradisebeach
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529535_480p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/USS-Indianapolis-Men-Of-Courage0.jpg",กองเรือหาญกล้าฝ่าทะเลเดือด
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529534_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheSoul-Mate0.jpg",คนกับคู่แสบแบบว่าป่วง
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529533_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/KungFuMonster0.jpg",KungFuMonster
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529532_720p.mp4//index.m3u8
 
 
 
