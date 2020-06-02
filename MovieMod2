@@ -669,7 +669,21 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529527_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527360_480p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TerminatorDark0.jpg",คนเหล็กวิกฤตชะตาโลก
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529134_720p.mp4//index.m3u8
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Paradise.Hills0.jpg",สวรรค์ซ่อนนรก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529800_480p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Silenced0.jpg",เสียงจากหัวใจที่ไม่มีใครได้ยิน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529132_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/LegendOfTheAncientSword0.jpg",อภินิหารแหวนครองพิภพสยบฟ้า
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528837_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Contagion0.jpg",สัมผัสล้างโลก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528836_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/On-Zon-De0.jpg",ออนซอนเด
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528835_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Metamorphosis00.jpg",ปีศาจเปลี่ยนหน้า
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528601_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DoctorSleep0.jpg",DoctorSleepลางนรก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528600_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
 
