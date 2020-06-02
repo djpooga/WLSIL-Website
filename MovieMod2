@@ -715,14 +715,14 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527826_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527825_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BraveFather0.jpg",คุณพ่อนักรบแห่งแสง
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527824_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheGirlFromYesterday0.jpg",เธอคือเมื่อวานนี้
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527823_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheImmortal0.jpg",ชั่วกัลปวสาน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527822_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BloodBound0.jpg",BloodBound
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527821_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheManWithTheIronHeart00.jpg",ปฏิบัติการลับดับนาซี
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527589_720p.mp4//index.m3u8
 
 
 
