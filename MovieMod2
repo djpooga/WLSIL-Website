@@ -705,17 +705,17 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528156_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0528155_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Fighting.With.My.Family0.jpg",สู้ถ้าฝันเพื่อครอบครัว
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527828_720p.mp4//index.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Jadesowrd0.jpg",กระบี่เทพสังหาร
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527830_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Inside.Man.Mos0.jpg",ปล้นข้ามโลก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527829_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Playmobil0.jpg",Playmobil
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527826_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheBeast0.jpg",ปิดโซลล่า
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527825_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BraveFather0.jpg",คุณพ่อนักรบแห่งแสง
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527824_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
 
