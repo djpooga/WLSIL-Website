@@ -723,6 +723,26 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527822_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527821_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheManWithTheIronHeart00.jpg",ปฏิบัติการลับดับนาซี
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527589_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/IAmVengeance0.jpg",IAmVengeance
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527585_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/KamenRiderGenerations0.png",รวมพลไรเดอร์
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527588_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/KamenRiderPacman0.jpg",รวมพล5มาสไรเดอร์
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527587_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Bkky0.jpg",BKKY
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527586_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Nomis0.jpg",Nomis
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527584_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/PrimalRage0.jpg",PrimalRage
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527583_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BoundByLies0.jpg",BoundByLies
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527582_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DeadTrigger0.jpg",DeadTrigger
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527581_720p.mp4//index.m3u8
+
+
+
+
 
 
 
