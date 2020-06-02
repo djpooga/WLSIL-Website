@@ -665,6 +665,18 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529529_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529528_1080p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheMysteryOfMichell0.jpg",ความลึกลับของมิเชล
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529527_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/OnePieceStampede0.jpg",OnePieceStampede
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527360_480p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TerminatorDark0.jpg",คนเหล็กวิกฤตชะตาโลก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529134_720p.mp4//index.m3u8
+
+
+
+
+
+
+
+
 
 
 
