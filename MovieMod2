@@ -655,16 +655,16 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529534_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529533_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/KungFuMonster0.jpg",KungFuMonster
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529532_720p.mp4//index.m3u8
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/PStorm0.jpg",คนคมโค่นพายุ4
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529531_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BenIsBack0.jpg",จากใจแม่ถึงลูกเบน
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529530_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/BeautifulBoy0.jpg",แด่ลูกชายสุดที่รัก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529529_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TradingPaint0.jpg",TradingPaint
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529528_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheMysteryOfMichell0.jpg",ความลึกลับของมิเชล
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0529527_720p.mp4//index.m3u8
 
 
 
