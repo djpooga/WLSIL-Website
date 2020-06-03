@@ -771,6 +771,20 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526716_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526493_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheBravest0.jpg",ผู้พิทักษ์ดับไฟ
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526492_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Khun.Bunlue0.jpg",ขุนบุญลือ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526491_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/00MHZ0.jpg",ผีอยู่ในผม
+http://cdn-vod.kodi-live.com//hls//content//nss2//vod//TH_0519182_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Mara00.jpg",ตื่นไหลตาย
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526489_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheMustang0.jpg",TheMustang
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//EN_0511515_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/WhereMyRoyCohn0.jpg",ลับ ลวง ร้าย
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526488_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Sweet200.png",Sweet20
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526487_720p.mp4//index.m3u8
+
+
 
 
 
