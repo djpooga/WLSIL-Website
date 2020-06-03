@@ -739,17 +739,17 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527583_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527582_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/DeadTrigger0.jpg",DeadTrigger
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527581_720p.mp4//index.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/TheBeautifulOnes0.jpg",TheBeautifulOnes
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527580_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/MindBlown0.jpg",MindBlown
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527579_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Abominable00.jpg",มนุษย์หิมะเพื่อนรัก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527358_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/CityHunter00.jpg",โครตนักสืบชินจูกุ ปิ๊ป
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527357_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Arctic00.jpg",อย่าตาย
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527356_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
 
 
 
