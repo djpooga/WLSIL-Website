@@ -749,7 +749,27 @@ http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527358_720p.mp4//inde
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527357_720p.mp4//index.m3u8
 #EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Arctic00.jpg",อย่าตาย
 http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527356_720p.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="",
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/HolidayRush00.jpg",HolidayRush
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527355_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/IceDragon0.jpg",IceDragon
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527354_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/AgentOfDeceit0.jpg",AgentOfDeceit
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0527353_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Gemini.Man00.jpg",Gemini.Man
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526902_1080p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/maleficent20.jpg"maleficent2นางพญาปีศาจ
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526759_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/exit00.jpg",ฝ่าหมอกพิษ ภาระกิจรัก
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526758_720p.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://167.71.221.99:8080/iptv/iptv_data/movies/images/posters/Voxlux0.jpg",Voxluxเกิดมาเพื่อร้องเพลง
+http://cdn-vod.kodi-live.com//hls//content//nss4//vod//TH_0526757_480p.mp4//index.m3u8
+
+
+
+
+
+
+
 
 
 
