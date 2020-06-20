@@ -607,7 +607,13 @@ http://160.119.77.50/iptv/uk-alibi.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-cbsaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFFcMlf8kpO93tV_5MyJv082xfQ8deR3h51hgJS2E_s-AvG_hT&usqp=CAU",CBSdrama
 http://160.119.77.50/iptv/uk-cbsdrama.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxdQtJDsz5hySbJl0nqHEGf-hnHbEtasb0xFK7IhUdop5LYPRj&usqp=CAU",DAVE Uk
+http://160.119.77.50/iptv/uk-dave.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqGMyX-6uLQ26enEIx8GU9J69oKoVZRhoyl1speGwFz2auOppZ&usqp=CAU",Skyatlantic
+http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_MW5H-HuBaW2dDaA7yzgrypdtoswIOXYrAkX_qz0fKuPcOkWs&usqp=CAU",skypremiere
+http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://logonoid.com/images/universal-logo.jpg",UNIVERSAL
 
 
 
