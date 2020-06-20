@@ -551,7 +551,10 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://logonoid.com/images/universal-logo.jpg",UNIVERSAL
 https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/IZAA-360x270.png",iZaa Channel(TH)
+http://203.154.243.31:8081/live/izaahd/index.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSj_FpF3zcpKqn0_UzYHfX_aHbfIk1IAi81dTag5PTyfG6URps9&usqp=CAU",Movie (Untitled)
+http://203.154.243.31:8081/live/h-channel/index.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTok84GbwFSi9l3qYc4KaHZNoEMHtQaMjh46el3e77M6YsOMssw&usqp=CAU",&FlixHd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -594,15 +597,12 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSman15dlwm45o0ZqwCPJ0FSjJ-G9t5W2AgD6hNZ1EdIkxlx4ZR&usqp=CAU",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/IZAA-360x270.png",iZaa Channel(TH)
-http://203.154.243.31:8081/live/izaahd/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://pbs.twimg.com/profile_images/573629747730624512/jKWq2xlO.jpeg",Movie (Untitled)
-http://203.154.243.31:8081/live/h-channel/index.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRB8N5xj5Ou1lXNZsZVtY7dQO0d-PIwR6PTzLXOcBWqozGlkJVdRL1GBx2&s=10",D Drama
+http://160.119.77.50/iptv/uk-drama.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlfqITssSI41pVJXKnZ03J5owlpYJbX07hhQaOT9gm9UTrml-W&usqp=CAU",4HD Uk
+http://160.119.77.50/iptv/uk-channel4hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdl6xu9T6Xi_E1ea5ffxUGZ2_p1Xkoz3iGqCWMCt5Z4muFHIse&usqp=CAU",Alibi
+http://160.119.77.50/iptv/uk-alibi.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/82myrjsvZjt2tIQ5QqDDkTEYGJuRKSJ2lSj5hGWW.png",CNN LIVE
