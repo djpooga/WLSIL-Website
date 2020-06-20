@@ -906,22 +906,22 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
 
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/hoxvBkF.png" ,BS Asahi
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRED4q0h589eD4JqRRdOnUnD3PFEWM07NGqh8CfuM7bh9Q_KV_r2MTs17tA&s=10" ,BS Asahi
 http://203.162.235.41:16914
  
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/5TaUGiC.png" ,BS Fuji
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRv2P3i5GJEbDGq91Sq8UQ_eawem5KzkBqkVx3qJ9dQg5pixmi&usqp=CAU" ,BS Fuji
 http://203.162.235.41:16911
  
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/F8vUpjV.png" ,BS Japan
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzzD3ZzH7BPugY1TxcDPIO42bYIdM1PuRCuyceeINSHhqBtAUJ&usqp=CAU" ,BS Japan
 http://203.162.235.41:16915
  
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/UIWO2Jp.png" ,BS NTV
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/320px-BS4_logo.svg.png" ,BS NTV
 http://203.162.235.41:16912
  
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/OSxEPYU.png" ,BS TBS
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqhGDHOq-dm--yaeWpwAiInDea-dMnsiVJehDHumPqJIM8Nxq&usqp=CAU" ,BS TBS
 http://203.162.235.41:16913
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/KQ8Mpvq.png" ,Golf Network
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdiuMtMkthkbq7h6GrDgnyxC_BZF08ddq-2jYVfpKnfenQeFBC&usqp=CAU" ,Golf Network
 http://203.162.235.41:16924
 
 
