@@ -603,6 +603,13 @@ http://160.119.77.50/iptv/uk-drama.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-channel4hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdl6xu9T6Xi_E1ea5ffxUGZ2_p1Xkoz3iGqCWMCt5Z4muFHIse&usqp=CAU",Alibi
 http://160.119.77.50/iptv/uk-alibi.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1KjmHFJ2xdmCN2Paqy_2Fbb5rQkqzRjPuVsG3Q3lovPx7Ea5p&usqp=CAU",CBSaction
+http://160.119.77.50/iptv/uk-cbsaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFFcMlf8kpO93tV_5MyJv082xfQ8deR3h51hgJS2E_s-AvG_hT&usqp=CAU",CBSdrama
+http://160.119.77.50/iptv/uk-cbsdrama.stream/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/82myrjsvZjt2tIQ5QqDDkTEYGJuRKSJ2lSj5hGWW.png",CNN LIVE
