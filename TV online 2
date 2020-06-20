@@ -336,31 +336,20 @@ https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/12/sky-mix.png", skysports mix
 https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",PREMIER FOOTBALL HD1
+https://livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",true PREMIER FOOTBALL HD2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",PREMIER FOOTBALL HD2
 https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",true PREMIER FOOTBALL HD3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",PREMIER FOOTBALL HD3
 https://tv4.chang55.com:446/live2/tv4ch12.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",true PREMIER FOOTBALL HD4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",PREMIER FOOTBALL HD4
 https://tv4.chang55.com:446/live2/tv4ch13.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",true PREMIER FOOTBALL HD5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",PREMIER FOOTBALL HD5
 https://tv4.chang55.com:446/live2/tv4ch14.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport1.jpg",true sport HD
-https://tv4.chang55.com:446/live2/tv4ch18.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport2.jpg",truesport 2
-https://tv4.chang55.com:446/live2/tv4ch78.stream/chunks.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport3.jpg",true sport HD3
-https://tv4.chang55.com:446/live2/tv4ch17.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports", truesport 7
-https://tv4.chang55.com:446/live2/tv4ch77.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKUA9lBOyXxPb4Ys9EOxDB63olscDOimXDqrWQBhN6ZJ_tNgVSz6KipGK&s=10", FIGHT SPORTS
 https://tv4.chang55.com:446/live2/tv4ch44.stream/chunks.m3u8
