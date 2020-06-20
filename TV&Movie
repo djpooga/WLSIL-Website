@@ -613,8 +613,16 @@ http://160.119.77.50/iptv/uk-dave.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_MW5H-HuBaW2dDaA7yzgrypdtoswIOXYrAkX_qz0fKuPcOkWs&usqp=CAU",skypremiere
 http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://logonoid.com/images/universal-logo.jpg",UNIVERSAL
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT58d4CdorQEEoST357QH14kNHzjN4V9iINQcdyhLcOA8u_bDRa&usqp=CAU",RTE2
+http://160.119.77.50/iptv/ie-rte2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/243px-E4_%28channel%29_logo.svg.png",E4 Uk
+http://160.119.77.50/iptv/uk-e4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/400px-5USA_logo.svg.png",5USA
+http://160.119.77.50/iptv/uk-usa.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToduCoIfI-Z5nwCLKV0PcIGGpgcpybQ8qtULEpu2WDP_0iCxdL&usqp=CAU",5Star
+http://160.119.77.50/iptv/uk-5star.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/300px-Film4_logo_2018.svg.png",Flim4
+http://160.119.77.50/iptv/uk-film4.stream/playlist.m3u8
 
 
 
