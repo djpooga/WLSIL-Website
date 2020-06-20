@@ -940,9 +940,8 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/fxYf9G0.png" ,Nippon TV
 http://203.162.235.41:16905
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" ,NTV News24
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYuJyXvnXLnLHxfHYXVOyukj-do5IlpH5XgqsmddCSqX17Nh89KjJuBLi8ow&s=10" ,NTV NEW24
 http://www.news24.jp/livestream/index.m3u8
-
 
 
 #EXTINF:-1 group-title="JAPAN" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" ,Shop Channel
