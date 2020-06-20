@@ -898,7 +898,7 @@ http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif" ,ジャパネットチャンネルDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/3K36JEA.jpg" ,Shop Channel
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKgMvbvKVXzH9yoQL9keS2HSJZ8CSATvhcJfCZfdOU1KIuO-2i&usqp=CAU" ,Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 
