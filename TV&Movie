@@ -921,7 +921,7 @@ http://203.162.235.41:16912
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqhGDHOq-dm--yaeWpwAiInDea-dMnsiVJehDHumPqJIM8Nxq&usqp=CAU" ,BS TBS
 http://203.162.235.41:16913
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdiuMtMkthkbq7h6GrDgnyxC_BZF08ddq-2jYVfpKnfenQeFBC&usqp=CAU" ,Golf Network
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4lfQSzkRHXg42Pwmv500FM4vBfoGwDrPks8kwRTglnNCt8bDCTP3q2sn&s=10" ,Golf Network
 http://203.162.235.41:16924
 
 
@@ -934,10 +934,10 @@ http://203.162.235.41:16910
 
 
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/guVDfBx.png" ,NJPW World
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu89C3UmQsQiIgGLbiHfxfHHgvUGF63wPqkGDj88suHRVWwwfK&usqp=CAU" ,NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/fxYf9G0.png" ,Nippon TV
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdEVI6-GzViLGrTPM2EGbiieZrc2PWl_1tPxSi1lWvvH7AUMCx&usqp=CAU" ,Nippon TV
 http://203.162.235.41:16905
 
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYuJyXvnXLnLHxfHYXVOyukj-do5IlpH5XgqsmddCSqX17Nh89KjJuBLi8ow&s=10" ,NTV NEW24
