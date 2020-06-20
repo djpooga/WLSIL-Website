@@ -373,7 +373,7 @@ http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
 http://202.183.247.206:9981/stream/channelid/859415194?ticket=B94F022535096FDA0AD42C8281373F3FDBD042FC&profile=pass
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/363ce850-9276-412d-b997-d1b9e8b94a8c.png",True Very
 http://160.119.77.50/iptv/sd-very.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-log="https://i.ytimg.com/vi/rwyz_fppdmo/hqdefault.jpg",Retro Music TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQohiGd76BirZTYYV7cXvh3vGGSYOHeYDAZqy0O2izZV7p4S4vUe9NARHmO5g&s=10",Retro Music TV
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554622_b750000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://p3.isanook.com/cl/0/up/2013/08/991.jpg",Channal V
 http://kodinew.dyndns.tv:9981/stream/channelid/1539799167?
@@ -525,7 +525,7 @@ http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 http://203.154.243.31:8081/live/ping/index.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Movies 7
 http://203.154.243.31:8081/live/h-channel/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.pinimg.com/originals/55/db/2d/55db2ded3eb8cb515cf0baaad995ad58.jpg",Drama Thai
+#EXTINF:-1 group-title="Movie" tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//0a6fff603139174614ae875d2285684f.jpg",Drama Thai
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
 http://27.254.130.61/live01/ch19.m3u8?p=st
@@ -618,7 +618,7 @@ https://tv4.chang55.com:446/live2/tv4ch28.stream/chunks.m3u8
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png",CBS NEWS
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="News" ,CNBC
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRowzwS7mcwvdhsmDplf8AMj5R7dlTDh_4eHmjjpn5yiwMbj_QF&usqp=CAU",CNBC
 http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPiWNd9u1NjtdCf8oCZRksGD5bYYSRmtxpxp4D0ht-aGLGyhoi&usqp=CAU",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
