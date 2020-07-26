@@ -466,7 +466,7 @@ https://freetvdd.com/กีฬา/fox-sports-3-th/
 http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmex21kjtdNSw_jUbvq6oNqDU2zfHb7-ZavHfqLm95-He2earS&usqp=CAU",OLYMPIC 1080p
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://mostvideo.tv/local/templates/most_video_2016/images/logo.png",MostVideo TV
+#EXTINF:-1 group-title='SPORT LIVE'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfk2Zqgt-amveFOH8vT0h1F6ApNtjOX3MjtA&usqp=CAU",MostVideo TV
 http://w4.mostvideo.tv:80/tv/ch1.m3u8
 #EXTINF:-1 group-title='SPORT LIVE'tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//channel_thumb//uploads//jpg//c3dbf7c2276382c0c59db19c45fb9643.jpg",REDBULL
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_6660.m3u8
