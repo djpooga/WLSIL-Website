@@ -746,21 +746,19 @@ http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Variety Live"tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583824073232_movie_image.png&d=movie",I Concest
+#EXTINF:-1 group-title="Variety Live"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmGv2ogJp6kCh2scPzoJOCHfr3Iu1fjSKUQw&usqp=CAU",I Concest
 https://moviektu.com/cdn.livetv.streamingtv/true/18jwLrlEKdn
-#EXTINF:-1 group-title='Variety Live'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1580199403582_movie_image.jpg&d=movie",Jazz
-https://www.we-play.tv/?p=4551
-#EXTINF:-1 group-title='Variety Live'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583824989249_movie_image.jpg&d=movie",M6 Country
+#EXTINF:-1 group-title='Variety Live'tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/480px-M6_logo.svg.png",M6 Country
 https://ktu.ktuiptvapp.com/8888/mcountry6.mkv
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBp5F3vY-oRpN7ZNUQtYwDG5FO3Uq4bMKxeDEBzfMGzt7kmEyD&usqp=CAU",Music B
 https://dl.dropbox.com/s/ilke2g48rd1g5vz/Bkonser.m3u8?dl=0
 #EXTINF:-1 group-title='Variety Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPeI6HRGV60t5B9s3J80XcXyIh_VPZ3h037RYpxIFm4DEsWEYN&usqp=CAU",RETRO 1993
 http://592f16fa90d9b.streamlock.net:80/retrotv/smil:retrotv2.smil/chunklist.m3u8
-#EXTINF:-1 group-title='Variety Live'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1582856467757_movie_image.jpg&d=movie",MTV Now
+#EXTINF:-1 group-title='Variety Live'tvg-logo="https://i.pinimg.com/originals/7d/a4/67/7da46762ed70634026d066add705e59c.png",MTV Now
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title='Variety Live'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583825165718_movie_image.png&d=movie",MTV His
+#EXTINF:-1 group-title='Variety Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwVJDNpY273iClJ0Vg707O8NIXH7Y9vc6Xdw&usqp=CAU",MTV His
 http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
-#EXTINF:-1 group-title='Variety Live'tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1575354200295_movie_image.png&d=movie",MTV Live
+#EXTINF:-1 group-title='Variety Live'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgDD4B0j4dEadEsVy3bPNkmAxm8x4zfeNZuA&usqp=CAU",MTV Live
 http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
 #EXTINF:-1 group-title='Variety Live'tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png",TVN
 http://cdn764.stm.trueid.net:80/live3/096_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=kXbNWcJhZhvSkQYNnLLl0Z2fzZQAosHMmoaJzu4wrDvF0rknYYiO8rJER8ZeW2Wjz2aWbqDrlcxp5C1g55sRLJ23pnx82gIODjaZoTl7BR86OiOR1VadpYSUIutUjpuEcCA
