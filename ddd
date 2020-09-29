@@ -1,0 +1,4049 @@
+{
+"name":"      ®️ MOVISTAR+  PREMIUM",
+"author":"EL ROBALISTAS - 14/08/2017",
+"info":"", 
+"contact":"technologicalapps@gmail.com", 
+"url":"http://w3ubin.com/HyWB7P8wW.w3u",
+"groups": [
+
+{
+"name":"🔳🔳🔳🔳🔳🔳
+
+Esta lista esta hecha sin ánimo de lucro y la podéis compartir en cualquier lugar. Un saludo del ROBALISTAS
+
+🔳🔳🔳🔳🔳🔳",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/4191_9187.png"
+}, 
+{
+"name":"     MOVISTAR+",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8423_9187.png", 
+"stations": [
+{
+"name":"⬜ MOVISTAR+  
+
+✅ Desactivar el bloqueador de anuncios o algunos canales no os funcionaran.
+
+✅ Hay canales que a veces no abren a la primera, le vais dando hasta que se abran. También puede ser que algún canal no emita en esos momentos. 
+
+✅ Los canales marcados 🔹son embed y cuando entréis al canal le dais al pequeño play ▶ que está arriba a la derecha. 
+
+ ✅ Los canales marcados ⚪ tardan en arrancar.",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7801_9187.png"
+}, 
+{
+"name": "#0 HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts"
+},
+{
+"name": "#0",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embed.php?file=pluscero&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "#0",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/canal-plus-1.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "#0🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/2463/canal-plus-1---movistar-0/", 
+"embed":true 
+},
+{
+"name":"A&E HD",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=AE&n_canal=bd0e73b1b69bbea4f49961cfba9b4d9f", 
+"isHost": true 
+}, 
+{
+"name": "A&E",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/documentales/ae.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "A&E",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/documentales/canal-bio.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "AMC",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=amcesptele&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "AMC",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/amc.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "AMC",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/amc.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "AMC",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/amc.SD.IRD/mono.m3u8"
+},
+{
+"name": "TCM",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embed.php?file=tcmesp&width=650&height=397",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "TCM",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://telefivegb.com/canales/pelis/tcm",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "TCM",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/tcm.html",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "TCM",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cdn.opencable.es/hls/live/tcm/index.m3u8"
+},
+{
+"name": "HOLLYWOOD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/hollywood.SD.IRD/mono.m3u8"
+},
+{
+"name": "HOLLYWOOD HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/hollywood.HD.xtra/mono.m3u8"
+},
+{
+"name":"HOLLYWOOD",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=Hollywood&n_canal=fe7e0b66b38dbc02ae1b847087115a84",
+"isHost": true
+}, 
+{
+"name": "HOLLYWOOD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=hollywesp&width=650&height=400", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "HOLLYWOOD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name": "TNT HD",
+"image": 
+"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/21.ts"
+},
+{
+"name": "TNT",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=tntesp&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "TNT",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name":"TNT",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=TNT&n_canal=a351e9b9de9e6729b76115fb8e8cd9a8",
+"isHost": true
+}, 
+{
+"name": "SYFY HD",
+"image": 
+"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts", 
+"online": false
+},
+{
+"name": "SYFY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=sysfesp&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "SYFY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8 ", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name":"SYFY ",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=SyFy&n_canal=8a52bd424550ef18d048e89d63be3ed9",
+"isHost": true
+}, 
+{
+"name": "SYFY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cdn.opencable.es/hls/live/syfy/index.m3u8"
+},
+{
+"name": "DARK",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=darkes&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DARK",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name": "DARK",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/buzzrojo.SD.IRD/mono.m3u8"
+},
+{
+"name": "DARK",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "https://cdn.opencable.es/hls/live/dark/index.m3u8"
+},
+{
+"name": "XTRM",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/xtrm.SD.IRD/mono.m3u8"
+},
+{
+"name": "XTRM HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/xtreme.HD.xtra/mono.m3u8"
+},
+{
+"name": "XTRM🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/4703/xtrm/", 
+"embed":true 
+},
+{
+"name": "FDF",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/fdf.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "FDF",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://verplusonline.com/canales/fdf", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "FDF",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/fdf.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "FDF🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cinestrenostv.tv/canales/nacionales/fdf.php", 
+"embed": true 
+},
+{
+"name": "AXN HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/18.ts"
+},
+{
+"name": "AXN",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=axnesp&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "AXN",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/axn.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "AXN",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name": "AXN",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/axn.SD.IRD/mono.m3u8"
+},
+{
+"name": "AXN",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/axn-white.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "AXN WHITE HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/19.ts"
+},
+{
+"name":"AXN WHITE HD",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=AXN&n_canal=675c30cb9a8994f09f93f4535b9e39c9",
+"isHost": true
+}, 
+{
+"name": "AXN WHITE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/axnwhite.SD.IRD/mono.m3u8"
+},
+{
+"name": "AXN WHITE⚪",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://90.229.173.167:9000/ch52" 
+},
+{
+"name": "CALLE 13 HD",
+"image": 
+"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/9.ts", 
+"online": false
+},
+{
+"name": "CALLE 13",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=calltrees&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name":"CALLE 13 ",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=Calle%2013&n_canal=b7c111833059227685fb74887fe07c8a",
+"isHost": true
+}, 
+{
+"name": "CALLE 13",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cdn.opencable.es/hls/live/calle13/index.m3u8"
+},
+{
+"name": "CALLE 13⚪",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://149.91.112.6:8300/play/a0cf"
+},
+{
+"name": "CALLE 13🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/2474/calle-13/", 
+"embed":true 
+},
+{
+"name": "FOX HD",
+"image": 
+"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/16.ts"
+},
+{
+"name": "FOX",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=foxespana&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "FOX",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/verfoxespana247756767558f1/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name":"FOX",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=FOX&n_canal=0e7028a591302250c4d0239ce6840181",
+"isHost": true
+}, 
+{
+"name":"FOX LIFE ",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=Fox%20Life&n_canal=81236d59196dc2c28bee042f88d6d005",
+"isHost": true
+}, 
+{
+"name": "FOX LIFE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/fox-life.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true, 
+"online": false
+},
+{
+"name": "COMEDIA HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts", 
+"online": false
+},
+{
+"name": "COMEDIA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embed.php?file=mcomedia&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "COMEDIA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/canal-plus-comedia.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "COMEDIA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/canal-plus-comedia.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "ACCION HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts"
+},
+{
+"name": "ACCION",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=accion&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "ACCION",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/canal-plus-accion.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "ACCION",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/canal-plus-accion.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "ACCION🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://wwww.dinostream.pw/channel.php?file=105982&width=650&height=400&autostart=true",
+"referer" : "http://cinestrenostv.tv"
+},
+{
+"name": "ACCION🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/2519/movistar-accion/", 
+"embed":true 
+},
+{
+"name": "ESTRENOS HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/2.ts"
+},
+{
+"name": "ESTRENOS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=mestrenos&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "ESTRENOS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/canal-plus-estrenos.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "ESTRENOS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name":"ESTRENOS",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Movistar%20Estrenos&n_canal=201",
+"isHost": true
+}, 
+{
+"name": "ESTRENOS🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/2517/movistar-estrenos/", 
+"embed":true 
+},
+{
+"name": "DCINE HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/3.ts"
+},
+{
+"name": "DCINE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/canal-plus-dcine.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DCINE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/canal-plus-dcine.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DCINE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=dicneesp&width=588&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DCINE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=dicneesp&width=100%&height=100%", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "XTRA HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/6.ts"
+},
+{
+"name": "XTRA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embed.php?file=mxtra&width=650&height=397",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "XTRA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embed.php?file=mxtra",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "SERIES HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/14.ts"
+},
+{
+"name": "SERIES",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=mseries&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "SERIES",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://telefivegb.com/canales/series/m_series", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "SERIES",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/vermseries9492273540e14a5/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name": "SERIES XTRA HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/15.ts"
+},
+{
+"name": "SERIES XTRA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true                           
+},
+{
+"name": "SERIES XTRA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://telefivegb.com/canales/series/m_series_xtra",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true                           
+},
+{
+"name": "COMEDY CENTRAL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=comedycentral&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "COMEDY CENTRAL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.vercanalestv.com/tv/nacionales/paramount-comedy.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "COMEDY CENTRAL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/vercomedycentral6b595e876/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name": "COMEDY CENTRAL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cdn.opencable.es/hls/live/comedycentral/index.m3u8"
+},
+{
+"name": "PARAMOUNT",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/paramount.sd.ird/mono.m3u8" 
+},
+{
+"name": "PARAMOUNT",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://paramount.live.flumotion.com/live/chunklist.m3u8"
+},
+{
+"name":"COSMO TV",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=Cosmo%20TV&n_canal=f54f832e01f6b26ece4283d67134aa71",
+"isHost": true
+}, 
+{
+"name": "COSMO TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=divinity&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true, 
+"online": false
+},
+{
+"name": "DIVINITY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=divinity&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DIVINITY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/divinity.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DIVINITY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://verdirectotv.com/tv/nacionales/divinity.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DIVINITY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name":"DECASA",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://flus1.sanpedrowifi.com/live/decasa.SD.IRD/mono.m3u8" 
+}, 
+{
+"name":"DECASA HD",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://flus1.sanpedrowifi.com/live/decasa.HD.xtra/mono.m3u8" 
+}, 
+{
+"name": "DECASA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/4708/decasa/", 
+"embed":true 
+},
+{
+"name": "COCINA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=cocinaesp&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "COCINA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/canal-cocina.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "COCINA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/canal-cocina.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "COCINA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name": "SOMOS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/somos.SD.IRD/mono.m3u8"
+},
+{
+"name": "SOMOS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "https://cdn.opencable.es/hls/live/somos/index.m3u8"
+},
+{
+"name": "BE MAD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/be-mad.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "BE MAD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://verdirectotv.com/tv/nacionales/bemad.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "BE MAD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/be-mad.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "TEN🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://wwww.dinostream.pw/channel.php?file=105989&width=650&height=400&autostart=true", 
+"referer": "http://cinestrenostv.tv/"
+},
+{
+"name": "TEN🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://cinestrenostv.tv/canales/nacionales/ten.php", 
+"embed": true 
+},
+{
+"name": "TEN🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/ver-canal-ten-online-gratis-vivo/", 
+"embed": true 
+},
+{
+"name": "TEN🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/ten.html", 
+"embed": true 
+},
+{
+"name": "TEN🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/ten.html", 
+"embed": true 
+},
+{
+"name": "NOVA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8"
+},
+{
+"name": "NOVA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/135/nova/", 
+"embed":true, 
+"online": false
+},
+{
+"name": "NEOX",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8"
+},
+{
+"name": "NEOX",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://iptvcanales.com/index.php/canal-en-vivo/?canal=Neox&n_canal=403", 
+"isHost":true 
+},
+{
+"name": "NEOX",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://telefivegb.com/canales/tdt/neox/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "NEOX🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/133/neox/", 
+"embed":true 
+},
+{
+"name": "MEGA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8"
+},
+{
+"name": "MEGA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://iptvcanales.com/index.php/canal-en-vivo/?canal=Mega&n_canal=402", 
+"isHost":true 
+},
+{
+"name": "MEGA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/canal-mega.html",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "MEGA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/447/mega/", 
+"embed":true 
+},
+{
+"name": "A3SERIES",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on"
+},
+{
+"name": "A3SERIES",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://iptvcanales.com/index.php/canal-en-vivo/?canal=A3Series&n_canal=404", 
+"isHost":true 
+},
+{
+"name": "ENERGY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embed.php?file=energy&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "ENERGY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/energy.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "ENERGY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cinestrenostv.tv/canales/nacionales/energy.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "ALFA TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://streamer1.streamhost.org:1935/salive/GMIalfah/f1tv.m3u8"
+},
+{
+"name": "VIAJAR",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cdn.opencable.es/hls/live/viajar/index.m3u8"
+},
+{
+"name": "VIAJAR ",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embed.php?file=viajar&width=650&height=400", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"online": false, 
+"isHost": true 
+},
+{
+"name": "TRAVEL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://194.179.53.124:1935/live/myStream_2/playlist.m3u8"
+},
+{
+"name": "C&I",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=crimenyinvestigacion&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "C&I",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/documentales/crimen-investigacion.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "C&I",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/documentales/crimen-investigacion.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "NAT GEOGRAPHIC HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts"
+},
+{
+"name": "NAT GEOGRAPHIC ",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/documentales/national-geographic.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "NAT GEOGRAPHIC ",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/documentales/national-geographic.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "NAT GEO WILD HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts"
+},
+{
+"name": "NAT GEO WILD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=NatGeo&n_canal=14b883544fcd5ead09b42a29c6969025", 
+"isHost":true 
+},
+{
+"name": "NAT GEO WILD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/documentales/nat-geo-wild.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DMAX",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "https://cdn.opencable.es/hls/live/discoverymax/index.m3u8"
+},
+{
+"name": "DMAX",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/documentales/discovery-max.html",
+"referer": "http://09stream.com/canales/max.html?file=103893&width=650&height=400&autostart=true",
+"isHost": true
+},
+{
+"name": "DMAX",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/documentales/discovery-max.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DISCOVERY HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/36.ts"
+},
+{
+"name": "DISCOVERY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=discoverychannel&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DISCOVERY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://telefivegb.com/canales/documental/discoverychannel", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DISCOVERY",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/verdiscoverychannelff096b/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name": "HISTORIA HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/37.ts"
+},
+{
+"name":"HISTORIA",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=Historia&n_canal=0d18cbfa36f577fec263df066421d154",
+"isHost": true
+}, 
+{
+"name": "HISTORIA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=historiaesp&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "HISTORIA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name": "ODISEA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/verodiseatelef121d54573d3192a6/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name": "ODISEA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/documentales/odisea.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36", 
+"isHost":true
+},
+{
+"name": "ODISEA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/documentales/odisea.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36", 
+"isHost":true
+},
+{
+"name": "IBERALIA HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/38.ts"
+},
+{
+"name": "IBERALIA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://input2.fractalmedia.es/hls/iberaliatv.m3u8"
+},
+{
+"name": "CAZA Y PESCA HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/39.ts"
+},
+{
+"name": "CAZA Y PESCA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "CAZA Y PESCA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vertelevisor.com/tv/documentales/caza-y-pesca.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"online": false, 
+"isHost": true 
+},
+{
+"name": "CAZA Y PESCA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/canales/documental/cazaypesca", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "TOROS HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/31.ts"
+},
+{
+"name": "TOROS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=torotv&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "TOROS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/canal-plus-toros.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "TOROS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/canal-plus-toros.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "TOROS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/canales/deporte/toro", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "TOROS⚪",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://51.15.144.38:6999/play/a027"
+},
+{
+"name": "MTV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=mtvesp&width=100%&height=100%", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "MTV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/mtv.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "MTV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edge8206.livesports.pw/live/vermtvespe9499422bf273237/index.m3u8", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name":"MTV",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=MTV&n_canal=9bb7afe444e65e818a52988adee673e7",
+"isHost": true
+}, 
+{
+"name": "DKISS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/nacionales/dkiss.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DKISS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/dkiss.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "DKISS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/dkiss.SD.IRD/mono.m3u8"
+},
+{
+"name": "DKISS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://tst.es.flash.glb.ipercast.net/tst.es-live/live/f1tv.m3u8"
+},
+{
+"name": "DKISS🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/4711/dkiss/", 
+"embed":true 
+},
+{
+"name": "DISNEY XD HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/41.ts"
+},
+{
+"name": "DISNEY XD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/disneyxd.SD.IRD/mono.m3u8"
+},
+{
+"name": "DISNEY XD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "https://cdn.opencable.es/hls/live/disneyxd/index.m3u8"
+},
+{
+"name": "DISNEY XD🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/disney-xd.html", 
+"embed": true 
+},
+{
+"name": "DISNEY JR HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/42.ts"
+},
+{
+"name": "DISNEY JR",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/disneyjnr.SD.IRD/mono.m3u8"
+},
+{
+"name":"DISNEY CHANNEL",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=Disney%20Channel&n_canal=b0b03107107b12286b6ac31531184618",
+"isHost": true
+}, 
+{
+"name": "DISNEY CHANNEL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/disneychannel.sd.ird/mono.m3u8"
+},
+{
+"name": "DISNEY CHANNEL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "https://cdn.opencable.es/hls/live/disneychannel/index.m3u8"
+},
+{
+"name": "DISNEY CHANNEL🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/disney-channel.html", 
+"embed": true 
+},
+{
+"name": "NICKELODEON HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/43.ts"
+},
+{
+"name": "NICKELODEON",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/nickelodeon.SD.IRD/mono.m3u8"
+},
+{
+"name": "NICKELODEON",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "https://cdn.opencable.es/hls/live/nickelodeon/index.m3u8"
+},
+{
+"name":"PANDA",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://flus1.sanpedrowifi.com/live/panda.SD.IRD/mono.m3u8" 
+}, 
+{
+"name": "PANDA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/canal-panda.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "PANDA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/4713/canal-panda/", 
+"embed":true 
+},
+{
+"name": "NICK JR",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/nickjnr.SD.IRD/mono.m3u8"
+},
+{
+"name": "NICK JR",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "https://cdn.opencable.es/hls/live/nickjr/index.m3u8"
+},
+{
+"name": "BOING",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/boing.SD.IRD/mono.m3u8"
+},
+{
+"name": "BOING",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embed.php?file=boing&width=665&height=400", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true  
+},
+{
+"name": "BOING",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/nacionales/boing.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "BOING🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/4648/boing/", 
+"embed":true 
+},
+{
+"name":"CLAN",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://flus1.sanpedrowifi.com/live/clan.SD.ird/mono.m3u8" 
+}, 
+{
+"name": "CLAN🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/4646/clan/", 
+"embed":true 
+},
+{
+"name": "LA 1 HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/10.ts"
+},
+{
+"name":"LA 1",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=TVE%20La%20Primera&n_canal=5bff4eaacfb2c2b61cf1e01ed6b75917",
+"isHost": true
+}, 
+{
+"name": "LA 1",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://livesports.pw/embedn.php?file=launotelefivegb&width=100%&height=100%", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "LA 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://wwww.dinostream.pw/channel.php?file=105959&width=650&height=400&autostart=true", 
+"referer" : "http://cinestrenostv.tv/"
+},
+{
+"name": "LA 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/121/la-1/", 
+"embed":true 
+},
+{
+"name":"LA 2",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=TVE%20La%202&n_canal=5f2ef715f5b709f65b146342fb3a5bc2",
+"isHost": true
+}, 
+{
+"name":"LA 2",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://telefivegb.com/canales/tdt/tv2/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name":"LA 2",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://livesports.pw/embedn.php?file=tvdostelefive&width=658&height=400",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "LA 2🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/123/la-2/", 
+"embed":true 
+},
+{
+"name": "24 HORAS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8?sd=10&rebase=on"
+},
+{
+"name": "24 HORAS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8"
+},
+{
+"name": "24 HORAS🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/125/canal-24-horas/", 
+"embed":true 
+},
+{
+"name": "+24 HORAS🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/776/canal-mas-24hs/", 
+"embed":true 
+},
+{
+"name":"ANTENA 3",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=Antena%203&n_canal=a84813c2e00d5192844e855b98fb90bd",
+"isHost": true
+}, 
+{
+"name": "ANTENA 3",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8"
+},
+{
+"name": "ANTENA 3",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/antena3.SD.IRD/mono.m3u8"
+},
+{
+"name": "ANTENA 3",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://telefivegb.com/tv-spain/ver-antena-3-hd-en-directo-y-online-las-24h-en-vivo/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "ANTENA 3🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/445/antena-3/", 
+"embed":true 
+},
+{
+"name": "CUATRO",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/cuatro.SD.IRD/mono.m3u8"
+},
+{
+"name": "CUATRO",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://telefivegb.com/canales/tdt/cuatro/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "CUATRO",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cinestrenostv.tv/canales/envivo/cuatro.html",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "CUATRO🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/129/cuatro/", 
+"embed":true 
+},
+{
+"name": "TELECINCO HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/13.ts"
+},
+{
+"name": "TELECINCO",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/telecinco.SD.IRD/mono.m3u8"
+},
+{
+"name": "TELECINCO",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://telefivegb.com/tv-spain/ver-tele-5-online-y-en-directo-las-24h-en-vivo-y-gratis/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "TELECINCO🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/127/telecinco/", 
+"embed":true 
+},
+{
+"name": "LA SEXTA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8"
+}, 
+{
+"name": "LA SEXTA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://iptvcanales.com/index.php/canal-en-vivo/?canal=La%20Sexta&n_canal=401", 
+"isHost":true 
+},
+{
+"name": "LA SEXTA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/443/la-sexta/", 
+"embed":true 
+},
+{
+"name": "INTERECONOMIA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://www.rapifutbol.tv/canal/546/intereconomia-tv/", 
+"embed":true 
+},
+{
+"name": "INTERECONOMIA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "https://strintereconomia.enetres.net/16011939C62D44ED91350508FB25828B021/mobile/f1tv.m3u8"
+},
+{
+"name": "PARLAMENTO",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8 "
+},
+{
+"name": "SOLIDARIA TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8"
+},
+{
+"name": "13TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8?idLive=021&referer=TkQ="
+},
+{
+"name": "13TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/f1tv.m3u8"
+},
+{
+"name": "TELEMADRID",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/telemadrid.HD.xtra/mono.m3u8"
+},
+{
+"name": "CANAL SUR",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/canalsur.SD.xtra/mono.m3u8"
+},
+{
+"name": "CANAL EXTREMADURA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8"
+},
+{
+"name": "TV NAVARRA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/chunklist_w1863227773.m3u8"
+},
+{
+"name": "7HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on"
+},
+{
+"name": "ETBsat",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8"
+},
+{
+"name": "8 TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1421144122.m3u8"
+},
+{
+"name": "HUELVA TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8"
+},
+{
+"name": "RTV CEUTA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8"
+},
+{
+"name": "CyL7",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8"
+},
+{
+"name": "TV CANARIA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1256186728_b480000_sles.m3u8"
+},
+{
+"name": "POPULAR TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8"
+},
+{
+"name": "TV MEDITERRÁNEO",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8"
+},
+{
+"name": "ARAGON TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8"
+},
+{
+"name": "TV3",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8"
+},
+{
+"name": "TV3",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://flus1.sanpedrowifi.com/live/tv3.SD.xtra/mono.m3u8"
+},
+{
+"name": "TV3",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/f1tv.m3u8"
+},
+{
+"name": "3/24",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8"
+},
+{
+"name": "IB3 TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8"
+},
+{
+"name": "ONDA AZUL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8" 
+},
+{
+"name": "ARAGON TV ",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8"
+},
+{
+"name":"NUART 🔞",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://78.111.176.132:8080"
+}, 
+{
+"name":"SEXTATION 🔞",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8"
+}, 
+{
+"name":"JASMIN TV 🔞",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url":"http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8"
+},
+{
+"name":"ADULT  🔞 HD",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url":"http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/44.ts"
+},
+{
+"name":"ADULT 2 🔞 HD",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url":"http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/45.ts"
+},
+{
+"name":"ADULT 3 🔞 HD",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url":"http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/46.ts"
+},
+{
+"name":"ADULT 4 🔞 HD",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url":"http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/47.ts"
+},
+{
+"name":"ADULT 5 🔞 HD",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url":"http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/48.ts"
+},
+{
+"name":"ADULT 6 🔞 HD",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url":"http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/49.ts"
+}
+] 
+}, 
+
+{
+"name":"     LATINO TV",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png", 
+
+"stations": [
+{
+"name":"⬜ LATINO TV
+  
+✅ Desactivar el bloqueador de anuncios o algunos canales no os funcionaran.
+
+✅ Hay canales que a veces no abren a la primera, le vais dando hasta que se abran. También puede ser que algún canal no emita en esos momentos. 
+
+✅ Los canales marcados 🔹son embed y cuando entréis al canal le dais al pequeño play ▶ que está arriba a la derecha",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7801_9187.png"
+}, 
+{
+"name" :"AZTECA NOTICIAS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Azteca%20Noticias&n_canal=1",
+"isHost": true
+}, 
+{
+"name" :"AZTECA NOTICIAS🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/661/azteca-noticias/",
+"embed": true
+}, 
+{
+"name" :"AZTECA 7", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"AZTECA 7", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-en-vivo/?canal=Azteca%207&n_canal=13",
+"isHost": true
+}, 
+{
+"name" :"AZTECA 13", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8"
+}, 
+{
+"name" :"AZTECA 13🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/673/azteca-13-trece/",
+"embed": true
+}, 
+{
+"name" :"ADN 40", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8"
+}, 
+{
+"name" :"ADN 40", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=ADN%2040&n_canal=4",
+"isHost": true
+}, 
+{
+"name" :"ADN 40🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/469/proyecto-40/",
+"embed": true
+}, 
+{
+"name" :"FORO TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Foro%20TV&n_canal=6",
+"isHost": true
+}, 
+{
+"name" :"FORO TV🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/479/foro-tv/",
+"embed": true
+}, 
+{
+"name" :"MULTIMEDIOS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Multimedios&n_canal=11",
+"isHost": true
+}, 
+{
+"name" :"CANAL 11", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Once%20TV&n_canal=12",
+"isHost": true
+}, 
+{
+"name" :"CANAL 11🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/481/canal-once/",
+"embed": true
+}, 
+{
+"name" :"MILENIO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Milenio&n_canal=13",
+"isHost": true
+}, 
+{
+"name" :"MILENIO🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/197/milenio-tv/",
+"embed": true
+}, 
+{
+"name" :"CB TV Michoacán🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/1258/cb-tv-michoacan/",
+"embed": true
+}, 
+{
+"name" :"TVUNAM🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/222/tv-unam/",
+"embed": true
+}, 
+{
+"name" :"CANAL JUDICIAL🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/210/canal-judicial/",
+"embed": true
+}, 
+{
+"name" :"EL TRECE", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=El%20Trece&n_canal=106",
+"isHost": true
+}, 
+{
+"name" :"TELEFORMULA🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/220/teleformula/",
+"embed": true
+}, 
+{
+"name" :"CANAL 5", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"CANAL 5 TELEVISA🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/1252/canal-5-televisa/",
+"embed": true
+}, 
+{
+"name" :"EFEKTO TV🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/467/efekto-tv/",
+"embed": true
+}, 
+{
+"name" :"CANAL 4 TELEVISA🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/1221/canal-4-televisa-guadalajara/",
+"embed": true
+}, 
+{
+"name" :"CANAL INSTITUCIONAL🔹",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/979/canal-institucional/",
+"embed": true
+}, 
+{
+"name" :"NACION TV🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/365/nacion-tv/",
+"embed": true
+}, 
+{
+"name" :"NTN24🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/396/ntn-24/",
+"embed": true
+}, 
+{
+"name" :"TELECARIBE🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/3997/telecaribe/",
+"embed": true
+}, 
+{
+"name" :"TELEMEDELLIN🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/294/telemedellin/",
+"embed": true
+}, 
+{
+"name" :"TNT SERIES🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/1656/tnt-series/",
+"embed": true
+}, 
+{
+"name" :"TN🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/152/tn/",
+"embed": true
+}, 
+{
+"name" :"TELEVISION PUBLICA🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/33/canal-7-tv-publica/",
+"embed": true
+}, 
+{
+"name" :"QM NOTICIAS🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/221/qm-noticias/",
+"embed": true
+}, 
+{
+"name" :"ENCUENTRO🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/503/encuentro/",
+"embed": true
+}, 
+{
+"name" :"TEC TV🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/206/tec-tv/",
+"embed": true
+}, 
+{
+"name" :"UN3🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/1405/un3/",
+"embed": true
+}, 
+{
+"name" :"CANAL 8 SAN JUAN🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/246/canal-8-san-juan/",
+"embed": true
+}, 
+{
+"name" :"CANAL 3 ROSARIO🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/251/canal-3-rosario/",
+"embed": true
+}, 
+{
+"name" :"CPE TV🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/1373/cpe-tv/",
+"embed": true
+}, 
+{
+"name" :"CANAL 25 SANTIAGO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8"
+}, 
+{
+"name" :"TELEUNIVERSO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8"
+}, 
+{
+"name" :"TV RED PUNTA ARENAS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://69.164.193.177:1935/live/myStream/playlist.m3u8"
+}, 
+{
+"name" :"PANAMERICANA", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"https://cdnh15.iblups.com/hls/ptv.m3u8"
+}, 
+{
+"name" :"CARACOL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?&dnt=true&ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html"
+}, 
+{
+"name" :"CARACOL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Caracol&n_canal=114",
+"isHost": true
+}, 
+{
+"name" :"WebTV - CARACOL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Caracol-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"RCN", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=RCN&n_canal=115",
+"isHost": true
+}, 
+{
+"name" :"RCN", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8"
+}, 
+{
+"name" :"WebTV - RCN HD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/RCN-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - RCN HD2", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/RCN-HD2-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - FOX", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/FOX-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - FOX 1", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Fox-1-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - TDN MEXICO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/TDN-Mexico-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"UNIVISION TDN", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-en-vivo/?canal=Univision%20TDN&n_canal=11",
+"isHost": true
+}, 
+{
+"name" :"WebTV - UNIVISION TDN", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Univision-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"UNIVISION", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Univision&n_canal=101",
+"isHost": true
+}, 
+{
+"name" :"UNIMAS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Unimas&n_canal=113",
+"isHost": true
+}, 
+{
+"name" :"DW", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=DW%20Latinoamerica&n_canal=103",
+"isHost": true
+}, 
+{
+"name" :"LATINA", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Latina&n_canal=116",
+"isHost": true
+}, 
+{
+"name" :"LA RED", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8"
+}, 
+{
+"name" :"LA RED", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=La%20Red&n_canal=108",
+"isHost": true
+}, 
+{
+"name" :"WebTV - SPACE HD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Space-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - FOX ACTION", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Fox-Action-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"HISTORY*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - HISTORY", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/History-Channel-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"DISCOVERY H&H*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - DISCOVERY TURBO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Discovery-Turbo-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"SONY*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - SONY", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Sony-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"HBO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-en-vivo/?canal=HBO&n_canal=1",
+"isHost": true
+}, 
+{
+"name" :"WebTV - HBO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/HBO-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - HBO 2", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/HBO-2-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - HBO PLUS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/HBO-Plus-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - HBO FAMILY", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/HBO-Family-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - UNICABLE", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Unicable-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - TNT HD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/TNT-HD-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - CINEMAX", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Cinemax-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WARNER CHANNEL*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8",
+"isHost": true
+}, 
+{
+"name" :"WebTV - WARNER CHANNEL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Warner-Channel-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"DISCOVERY CHANNEL*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - DISCOVERY CHANNEL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Discovery-En-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - FOX MOVIES", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Fox-Movies-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"UNIVERSAL CHANNEL*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - UNIVERSAL CHANNEL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Universal-HD-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"TELEFE", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Telefe&n_canal=111",
+"isHost": true
+}, 
+{
+"name" :"WebTV - TELEFE HD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Telefe-HD-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - DISCOVERY SCIENCE", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Discovery-Science-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - GOLDEN HD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Golden-HD-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - NAT GEO WILD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Nat-Geo-Wild-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - GRAVITY FALLS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Gravity-Falls-24-Horas/",
+"isHost": true
+}, 
+{
+"name" :"TBS*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"E!*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"NASA TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8"
+}, 
+{
+"name" :"101", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8"
+}, 
+{
+"name" :"HISPAN TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8"
+}, 
+{
+"name" :"CANAL 2 TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://181.143.238.252/canal2/canal2cali/index.m3u8"
+}, 
+{
+"name" :"TELE ARAGUA", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://enc-fwt.lorini.net/telearagua/telearagua/index.m3u8"
+}, 
+{
+"name" :"COSMOVISION", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8"
+}, 
+{
+"name" :"OCHO TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8"
+}, 
+{
+"name" :"NEXT TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8"
+}, 
+{
+"name" :"RPC", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8"
+}, 
+{
+"name" :"TELEMETRO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8"
+}, 
+{
+"name" :"TVN", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://live-14.viewer.dacast.com/i/dclive_1@176094/master.m3u8"
+}, 
+{
+"name" :"GUATEVISION", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8"
+}, 
+{
+"name" :"SUPER 5", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://k3.usastreams.com/superC/_definst_/mp4:superC_2/chunklist.m3u8"
+}, 
+{
+"name" :"VE PLUS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8"
+}, 
+{
+"name" :"BHTV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8"
+}, 
+{
+"name" :"TELECAFE", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8"
+}, 
+{
+"name" :"CAPITAL TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8"
+}, 
+{
+"name" :"CANTINAZO TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8"
+}, 
+{
+"name" :"IUXURY", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://nano.teleservice.su:8080/hls/luxury.m3u8"
+}, 
+{
+"name" :"MTV AM", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://mtvam.ru/hlsam/playlist.m3u8"
+}, 
+{
+"name" :"M2", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://live.m2.tv/hls/stream.m3u8"
+}, 
+{
+"name" :"Q2 TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8"
+}, 
+{
+"name" :"THT MUSIC", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8"
+}, 
+{
+"name" :"CMC", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8"
+}, 
+{
+"name" :"MUSIC BOX", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://212.26.132.86/hls/mb_ua_2500.m3u8"
+}, 
+{
+"name" :"PORTAL FOX MIX", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8"
+}, 
+{
+"name" :"PINGUINO TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8"
+}, 
+{
+"name" :"VIBEE TV ", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://46.101.21.42:8081/live/live2/playlist.m3u8"
+}, 
+{
+"name" :"DANCE TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8"
+}, 
+{
+"name" :"TELE RITMO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8"
+}, 
+{
+"name" :"TELE RITMO🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/205/teleritmo/",
+"embed": true
+}, 
+{
+"name" :"TOP LATINO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8"
+}, 
+{
+"name" :"HIT TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8"
+}, 
+{
+"name" :"VIRGIN TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://wow01.105.net/live/virgin1/chunklist.m3u8"
+}, 
+{
+"name" :"MUSIC CHOICE", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8"
+}, 
+{
+"name" :"LOS SIMPSONS 24H", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - LOS SIMPSON 24H", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Los-Simpsoms-24-Horas/",
+"isHost": true
+}, 
+{
+"name" :"LOS SIMPSON 24H🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/4792/los-simpsons-en-vivo/",
+"embed": true
+}, 
+{
+"name" :"TNT SERIES*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - TNT SERIES", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/TNT-Series-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"AMERICA TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://ar.watcha.live/ch3/full.m3u8"
+}, 
+{
+"name" :"AMERICA TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=America%20TV&n_canal=105",
+"isHost": true
+}, 
+{
+"name" :"WebTV - AMERICA TV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/America-TV-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"AXN*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - AXN", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/AXN-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - H2", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/History-2-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - H&H", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Home-and-Healt-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - CINECANAL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Cinecanal-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - ID", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Investigation-Discovery-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - DISCOVERY THEATER", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Discovery-HD-Theather-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - GOLDEN EDGE", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Golden-Edge-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - TLC", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/TLC-Discovery-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"FX*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - FX", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/FX-HD-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - FILM ZONE HD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/The-Film-Zone-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"NAT GEOGRAPHIC*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - NAT GEOGRAPHIC", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Nat-Geo-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"COMEDY CENTRAL*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"UNIVERSAL*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"STUDIO UNIVERSAL*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"STUDIO UNIVERSAL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - STUDIO UNIVERSAL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Studio-Universal-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - GALAVISION", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Galavision-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"SYFY*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - SYFY", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/SyFy-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - AMC HD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/AMC-HD-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - ISAT", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/ISAT-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - DISTRITO COMEDIA", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Distrito-Comedia-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - MUNDOFOX", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/MundoFox-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"LAS ESTRELLAS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8"
+}, 
+{
+"name" :"WebTV - LAS ESTRELLAS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Canal-de-las-estrellas-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - MTV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/MTV-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - MULTIPREMIER", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/MultiPremier-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - MAXPRIME", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Maxprime-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - CASA CLUB", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Casa-Club-TV-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"NICK JR*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8" 
+}, 
+{
+"name" :"NICKELODEON*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8" 
+}, 
+{
+"name" :"CARTOON NETWORK*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - CARTOON NETWORK", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Cartoon-Network-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"DISNEY CHANNEL*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - DISNEY CHANNEL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Disney-Channel-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - NICK", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Nick-HD-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"DISNEY XD*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - DISNEY XD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Disney-XD-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - NICKTOONS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Nicktoons-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"DISCOVERY KIDS*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - DISCOVERY KIDS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Discovery-Kids-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"DISNEY JR*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - DISNEY JR", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Disney-Junior-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - SUPERCAMPEONES", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Supercampeones-24-horas/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - BOOMERANG", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Boomerang-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"ANIME TV🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/1640/anime-tv/",
+"embed": true
+}, 
+{
+"name" :"PAKA PAKA🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/437/paka-paka/",
+"embed": true
+}, 
+{
+"name" :"WebTV - SOUTH PARK", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/South-Park-24-horas/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - DRAGON BALL 24H", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Dragon-Ball-24-Horas/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - EL CHAVO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/El-Chavo-24-Horas/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - TCM", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/TCM-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"FOX LIFE*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - FOX LIFE", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Fox-Life-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - TRU TV HD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Tru-TV-HD-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - PARAMOUNT", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Paramount-Channel-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WAPA", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=Wapa&n_canal=112",
+"isHost": true
+}, 
+{
+"name" :"WebTV - WAPA", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/WAPA-TV-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - E", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/E-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - TELEMUNDO", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Telemundo-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - 7 HD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Azteca-7-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - TOONCAST", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Tooncast-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - TELEMUNDO Puerto Rico", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Telemundo-PR-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - PLANETA FUTBOL", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Planeta-Futbol-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - TLNOVELAS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Tlnovelas-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - BBC", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/BBC-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"ANIMAL PLANET*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/408animalplanet/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"ANIMAL PLANET", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - ANIMAL PLANET HD", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Animal-Planet-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - VENUS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Venus-en-vivo/",
+"isHost": true
+}
+] 
+}, 
+{
+"name":"     DEPORTES",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png", 
+
+"stations": [
+{
+"name":"⬜ DEPORTES
+  
+✅ Desactivar el bloqueador de anuncios o algunos canales no os funcionaran.
+
+✅ Hay canales que a veces no abren a la primera, le vais dando hasta que se abran. También puede ser que algún canal no emita en esos momentos. 
+
+✅ Los canales marcados 🔹son embed y cuando entréis al canal le dais al pequeño play ▶ que está arriba a la derecha. 
+
+ ✅ Los canales marcados ⚪ tardan en arrancar.
+
+‼️ La mayoría de canales extranjeros se paran al principio, dejarlos seguir hasta que se estabilicen. Los enlaces son de una web y nunca cambian, así que cuando se cae alguno ellos mismos lo reparan.",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7801_9187.png"
+}, 
+{
+"name": "PARTIDAZO (Funciona cuando hay partido)",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=partidazo&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "PARTIDAZO",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vertelevisor.com/tv/deportes/canal-plus-partidazo.html",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "PARTIDAZO",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://vercanalestv.com/tv/deportes/canal-plus-partidazo.html",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "PARTIDAZO 🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=105765&width=650&height=400&autostart=true", 
+"referer": "http://cinestrenostv.tv/canales/deportes/plus-partidazo.php"
+},
+{
+"name":"PARTIDAZO🔹",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.rapifutbol.tv/canal/2500/movistar-partidazo/", 
+"embed":true
+}, 
+{
+"name": "BEIN LIGA HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/23.ts"
+},
+{
+"name": "BEIN LIGA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "BEIN LIGA",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/canales/deporte/beinlaliga", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost": true 
+},
+{
+"name": "BEIN LIGA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=104884&width=650&height=400&autostart=true",
+"referer" : "http://verdirectotv.com/tv/deportes/plusliga.html"
+},
+{
+"name": "BEIN LIGA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=104884&width=650&height=400&autostart=true",
+"referer" : "http://verdirectotv.com/tv/deportes2/plusliga.html"
+},
+{
+"name": "BEIN LIGA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://lacalleochotv.org/bein-sports-la-liga-en-directo/", 
+"embed": true 
+},
+{
+"name": "BEIN LIGA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html", 
+"embed": true 
+},
+{
+"name": "BEIN LIGA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://verliga.net/tv/verliga-5.html", 
+"embed": true 
+},
+{
+"name": "BEIN LIGA🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vertelevisor.com/tv/deportes/canal-plus-liga.html", 
+"embed": true 
+},
+{
+"name": "BEIN SPORTS HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/24.ts"
+},
+{
+"name":"BEIN SPORTS ",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://livesports.pw/embed.php?file=beinsport&width=650&height=397",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+}, 
+{
+"name":"BEIN SPORTS",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-online-en-vivo/?canal=Bein%20Sport&n_canal=b307f22d624c42d3d6931847c0415ee3",  
+"isHost":true
+}, 
+{
+"name": "BEIN SPORTS🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd1.pw/channel.php?file=113&width=650&height=400&autostart=true"
+},
+{
+"name": "BEIN SPORTS🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd2.pw/channel.php?file=113&width=650&height=400&autostart=true"
+},
+{
+"name": "BEIN SPORTS🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=105711&width=650&height=400&autostart=true", 
+"referer" : "http://09stream.com/canales/beinsport.html"
+},
+{
+"name": "BEIN SPORTS🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=105711&width=650&height=400&autostart=true",
+"referer" : "http://cinestrenostv.tv/canales/deportes/beinsports.php"
+},
+{
+"name":"BEIN SPORTS🔹",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://vertelevisor.com/tv/deportes/bein-sport.html", 
+"embed": true
+}, 
+{
+"name": "LA LIGATV HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/22.ts"
+},
+{
+"name": "LA LIGATV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=barliga&width=650&height=397",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36", 
+"isHost": true
+},
+{
+"name": "LA LIGATV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/canales/deporte/ligatvbar",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36", 
+"isHost": true
+},
+{
+"name": "FUTBOL HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/26.ts"
+},
+{
+"name": "FUTBOL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=futbolespm&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "FUTBOL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/7843_9187.png",
+"url": "http://edee10.verliga1.pw/live/plusfutbol/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"
+},
+{
+"name":"FUTBOL",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/canal+futbol.php",
+"isHost": "true" 
+},
+{
+"name": "FUTBOL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://cinestrenostv.tv/canales/envivo/plusfutbol.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "FUTBOL🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=112&width=650&height=400&autostart=true", 
+"referer" : "http://09stream.com/canales/"
+},
+{
+"name": "FUTBOL🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd1.pw/channel.php?%20file=112&width=650&height=400&autostart=true"
+},
+{
+"name": "FUTBOL🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd2.pw/channel.php?%20file=112&width=650&height=400&autostart=true"
+},
+{
+"name": "FUTBOL🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.rapifutbol.tv/canal/2503/movistar-futbol/", 
+"embed":true 
+},
+{
+"name": "LIGA 123🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=151&width=650&height=400&autostart=true", 
+"referer" : "http://09stream.com/canales/laliga123multi1.html"
+},
+{
+"name": "LIGA 123🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=152&width=650&height=400&autostart=true", 
+"referer" : "http://09stream.com/canales/laliga123multi2.html"
+},
+{
+"name": "LIGA 123🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=153&width=650&height=400&autostart=true", 
+"referer" : "http://09stream.com/canales/laliga123multi3.html"
+},
+{
+"name": "LIGA 123🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=154&width=650&height=400&autostart=true", 
+"referer" : "http://09stream.com/canales/laliga123multi4.html"
+},
+{
+"name": "LIGA 123 🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html", 
+"embed": true 
+},
+{
+"name": "GOL HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/25.ts"
+},
+{
+"name": "GOL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vertelevisor.com/tv/deportes/goltv.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "GOL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vercanalestv.com/tv/deportes/goltv.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "GOL",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://cinestrenostv.tv/canales/deportes/goltv.php", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "GOL🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd1.pw/channel.php?file=119&width=650&height=400&autostart=true"
+},
+{
+"name": "GOL🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd2.pw/channel.php?file=119&width=650&height=400&autostart=true"
+},
+{
+"name": "GOL🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.rapifutbol.tv/canal/1789/gol-television/", 
+"embed":true
+},
+{
+"name": "FORMULA 1 HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/29.ts"
+},
+{
+"name": "FORMULA 1",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=funoesp&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "FORMULA 1",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/ver-canal-movistar-f1-online-gratis-y-en-vivo-por-internet/", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "FORMULA 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=105716&width=650&height=400&autostart=true",
+"referer" : "http://09stream.com/canales/"
+}, 
+{
+"name": "FORMULA 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.dinostream.pw/channel.php?file=105716&width=650&height=400&autostart=true",
+"referer" : "http://cinestrenostv.tv/canales/deportes/formula1.php"
+}, 
+{
+"name": "FORMULA 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd1.pw/channel.php?file=116&width=650&height=400&autostart=true"
+},
+{
+"name": "FORMULA 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd2.pw/channel.php?file=116&width=650&height=400&autostart=true"
+},
+{
+"name": "FORMULA 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.rapifutbol.tv/canal/2514/movistar-formula-1/", 
+"embed":true 
+},
+{
+"name": "MOTOGP HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/30.ts", 
+"online": false
+},
+{
+"name": "MOTOGP",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=motogpm&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "MOTOGP",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/ver-canal-movistar-moto-gp-online/", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "MOTOGP🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png", 
+"url": "http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true",
+"referer" : "http://09stream.com/canales/"
+}, 
+{
+"name": "MOTOGP🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png", 
+"url": "http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true",
+"referer" : "http://cinestrenostv.tv/canales/deportes/motogp.php"
+}, 
+{
+"name": "MOTOGP🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd1.pw/channel.php?file=117&width=650&height=400&autostart=true"
+},
+{
+"name": "MOTOGP🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd2.pw/channel.php?file=117&width=650&height=400&autostart=true"
+},
+{
+"name": "MOTOGP🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.rapifutbol.tv/canal/2512/movistar-motogp/", 
+"embed":true 
+},
+{
+"name": "MOTOGP🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vercanalestv.com/tv/deportes/moto-gp.html", 
+"embed":true
+},
+{
+"name": "GOLF HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/32.ts"
+},
+{
+"name": "GOLF",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=golfesp&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "GOLF",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vertelevisor.com/tv/deportes/canal-plus-golf.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "GOLF",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.liveonlinetv247.info/embed/golfchannel.php", 
+"isHost" : true
+},
+{
+"name": "GOLF🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png", 
+"url": "http://wwww.dinostream.pw/channel.php?file=105969&width=650&height=400&autostart=true",
+"referer" : "http://cinestrenostv.tv/canales/deportes/plusgolf.php"
+}, 
+{
+"name": "GOLF🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.rapifutbol.tv/canal/2510/movistar-golf/", 
+"embed":true 
+},
+{
+"name": "DEPORTES 1 HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/27.ts"
+},
+{
+"name": "DEPORTES 1",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=deporteone&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "DEPORTES 1",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vertelevisor.com/tv/deportes/canal-plus-deportes.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "DEPORTES 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd1.pw/channel.php?file=114&width=650&height=400&autostart=true"
+},
+{
+"name": "DEPORTES 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd2.pw/channel.php?file=114&width=650&height=400&autostart=true"
+},
+{
+"name": "DEPORTES 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.rapifutbol.tv/canal/2505/movistar-deportes-1/", 
+"embed":true 
+},
+{
+"name": "DEPORTES 2 HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/28.ts"
+},
+{
+"name": "DEPORTES 2",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=deportedosm&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "DEPORTES 2",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vertelevisor.com/tv/deportes/canal-plus-deportes-2.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "DEPORTES 2🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd1.pw/channel.php?%20file=115&width=650&height=400&autostart=true"
+},
+{
+"name": "DEPORTES 2🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd2.pw/channel.php?%20file=115&width=650&height=400&autostart=true"
+},
+{
+"name": "EUROSPORT 1 HD",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git", 
+"url": "http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/33.ts"
+},
+{
+"name": "EUROSPORT 1",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "EUROSPORT 1",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/canales/deporte/eurosport", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "EUROSPORT 1",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vercanalestv.com/tv/deportes/eurosport.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "EUROSPORT 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd1.pw/channel.php?%20file=120&width=650&height=400&autostart=true"
+},
+{
+"name": "EUROSPORT 1🔹",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://www.playerhd2.pw/channel.php?%20file=120&width=650&height=400&autostart=true"
+},
+{
+"name": "EUROSPORT 2",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "EUROSPORT 2",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vercanalestv.com/tv/deportes/eurosport-2.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "EUROSPORT 2",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/canales/deporte/eurosport2", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "TELEDEPORTE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=400", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "TELEDEPORTE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/canales/deporte/teledeporte", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "TELEDEPORTE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vertelevisor.com/tv/deportes/teledeporte.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "TELEDEPORTE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/master.m3u8"
+},
+{
+"name": "TELEDEPORTE",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_lv3_aosv4_dvr_gl1/tdp_lv3_aosv4_dvr_gl1.isml/tdp_lv3_aosv4_dvr_gl1.m3u8"
+},
+{
+"name": "BARÇA TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vertelevisor.com/tv/deportes/barca-tv.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name": "BARÇA TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://telefivegb.com/canales/deporte/barcatv", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name":"BARÇA TV🔹",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://wwww.dinostream.pw/channel.php?file=105970&width=650&height=400&autostart=true",
+"referer":"http://cinestrenostv.tv/canales/deportes/barcatv.php",
+"embed": true
+}, 
+{
+"name":"BARÇA TV🔹",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://verdirectotv.com/tv/deportes/barsatv.html",
+"embed": true
+}, 
+{
+"name":"BARÇA TV🔹",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://cinestrenostv.tv/canales/deportes/barcatv.php",
+"embed": true
+}, 
+{
+"name": "R MADRID TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?tecnotv.info?iptv.m3u8"
+},
+{
+"name": "REAL MADRID TV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8"
+},
+{
+"name":"REAL MADRID TV",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8"
+}, 
+{
+"name": "BETIS",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8"
+},
+{
+"name": "SEVILLA FC",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8"
+},
+{
+"name" :"WebTV - WIN SPORTS",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Win_Sports_En_vivo/",
+"isHost": true
+}, 
+{
+"name": "DIRECTV",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url": "http://vertelevisor.com/tv/deportes/directv-sports.html", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+"isHost" : true
+},
+{
+"name" :"DIRECTV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-en-vivo/?canal=DirecTV%20Sport&n_canal=9",
+"isHost": true
+}, 
+{
+"name" :"WebTV - DIRECTV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Directv-Sports-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"DIRECTV🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/736/directv-sports/",
+"embed": true
+}, 
+{
+"name" :"FOX SPORTS*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - FOX SPORTS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Fox-Sports-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"FOX SPORTS🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/726/fox-sports/",
+"embed": true
+}, 
+{
+"name" :"FOX SPORTS 2*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - FOX SPORTS 2", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Fox-Sports-2-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"FOX SPORTS 2🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/728/fox-sports-2/",
+"embed": true
+}, 
+{
+"name" :"FOX SPORTS 3*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"FOX SPORTS 3 (Mex)*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"FOX SPORTS 3", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/channel-en-vivo/?canal=Fox%20Sports3&n_canal=8",
+"isHost": true
+}, 
+{
+"name" :"WebTV - FOX SPORTS 3", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Fox-Sports-3-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"FOX SPORTS 3🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/1239/fox-sports-3/",
+"embed": true
+}, 
+{
+"name" :"WebTV - ESPN", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/ESPN-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"ESPN*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"ESPN 2", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-online-en-vivo/?canal=ESPN%202&n_canal=tv-espn2",
+"isHost": true
+}, 
+{
+"name" :"ESPN 2*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - ESPN 2", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/ESPN-2-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"ESPN 3*", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"
+}, 
+{
+"name" :"WebTV - ESPN 3", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/ESPN-3-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"ESPN 3🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/734/espn-3/",
+"embed": true
+}, 
+{
+"name" :"WebTV - ESPN +", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/ESPN-Plus-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"DEPORTV", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://iptvcanales.com/index.php/canal-en-vivo/?canal=DXTV&n_canal=104",
+"isHost": true
+}, 
+{
+"name" :"CLARO SPORTS🔹", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://www.rapifutbol.tv/canal/439/claro-sports/",
+"embed": true
+}, 
+{
+"name" :"WebTV - TYC SPORTS ", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/TYC-Sports-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - GOL TV ", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Gol-TV-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"WebTV - BEIN Ñ ", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://latino-webtv.com/Bein-N-Sports-en-vivo/",
+"isHost": true
+}, 
+{
+"name" :"ALL SPORTS", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://173.236.10.10:1935/dgrau/dgrau/live.m3u8"
+}, 
+{
+"name":"SPORT TV1",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://freehdsport.is/sporttv1.html",
+"isHost": true
+}, 
+{
+"name":"SPORT TV2",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://freehdsport.is/sporttv2.html",
+"isHost": true
+}, 
+{
+"name":"SPORT TV3",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://freehdsport.is/sporttv3.html",
+"isHost": true
+}, 
+{
+"name":"SPORT TV4",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://freehdsport.is/sporttv4.html",
+"isHost": true
+}, 
+{
+"name":"SPORT TV5",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://freehdsport.is/sporttv5.html",
+"isHost": true
+},
+{
+"name":"SKY SPORTS FOOTBALL",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://freehdsport.is/skyfootball.html",
+"isHost": true
+},
+{
+"name":"SKY SPORTS ACTION🔹",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://freehdsport.is/skyaction.html",
+"embed": true
+},
+{
+"name":"SKY SPORTS ARENA",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://freehdsport.is/skyarena.html",
+"isHost": true
+},
+{
+"name":"SKY SPORTS F1",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/skysportsf1.php",
+"IsHost": true
+},
+{
+"name":"SKY SPORTS MOTOGP",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/skysportmotogp.php",
+"isHost": true
+},
+{
+"name":"SKY SPORTS 1",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/skysports1.php",
+"isHost": true
+},
+{
+"name":"SKY SPORTS 2",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/skysports2.php",
+"isHost": true
+},
+{
+"name":"SKY SPORTS 3",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/skysports3.php",
+"isHost": true
+},
+{
+"name":"SKY SPORTS 4",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/skysports4.php",
+"isHost": true
+},
+{
+"name":"SKY SPORTS 5",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/skysports5.php",
+"isHost": true
+},
+{
+"name":"SKY SPORT 1 ITALIA",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/skysport1italia.php",
+"isHost": true
+},
+{
+"name":"SKY SPORT 2 ITALIA",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/skysport2italia.php",
+"isHost": true
+},
+{
+"name":"SKY SPORT 24 ITALIA",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/skysport24italia.php",
+"isHost": true
+},
+{
+"name":"BT SPORT 1",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/btsport1.php",
+"isHost": true
+},
+{
+"name":"BT SPORT 2",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/btsport2.php",
+"isHost": true
+},
+{
+"name":"BT SPORT 3",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/btsport3.php",
+"isHost": true
+},
+{
+"name":"BT SPORT ESPN",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://freehdsport.is/btsportespn.html",
+"isHost": true
+},
+{
+"name":"BT SPORT EUROPA",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/btsporteurope.php",
+"isHost": true
+},
+{
+"name":"PREMIER SPORTS",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://freehdsport.is/premiersports.html",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS HD1(FR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports1france.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS HD2(FR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports2france.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS HD3(FR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports3france.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS 1 (AR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports1.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS 2 (AR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports2.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS 3 (AR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports3.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS 4 (AR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports4.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS 5 (AR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports5.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS 6 (AR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports6.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS 7 (AR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports7.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS 8 (AR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports8.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS 9 (AR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports9.php",
+"isHost": true
+},
+{
+"name":"BEIN SPORTS 11 (AR)",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/beinsports11.php",
+"isHost": true
+},
+{
+"name" :"TV 2 SPORT", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8"
+}, 
+{
+"name" :"AD SPORT", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8"
+}, 
+{
+"name" :"AD SPORT 2", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8"
+}, 
+{
+"name" :"SUPER SPORT 1", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://81.7.13.162/hls/ss1/index.m3u8"
+}, 
+{
+"name" :"DUBAI SPORTS 3", 
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7389_9187.png",
+"url":"http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8"
+}, 
+{
+"name":"NBA",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/nbatv.php",
+"isHost": true 
+},
+{
+"name":"PTV SPORTS",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/ptvsports.php",
+"isHost": true 
+},
+{
+"name":"GEO SUPER",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/geosuper.php",
+"isHost": true 
+},
+{
+"name":"WWE NETWORK",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/wwenetwork.php",
+"isHost": true
+},
+{
+"name":"WWE TV",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/wwetv.php",
+"isHost": true
+},
+{
+"name":"BOX NATION",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8356_9187.png",
+"url":"http://www.liveonlinetv247.info/embed/boxnation.php",
+"isHost": true
+}
+] 
+}, 
+{
+"name":"      EVENTOS 
+     Acestream",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/8357_9187.png", 
+
+"stations": [
+{
+"name":"⬜ EVENTOS ACESTREAM 
+
+✅ Abrir primero el acestream antes de abril cualquier evento.",
+"image":"http://www.socialcreator.com/srv/imgs/ti_imgs/7801_9187.png"
+}, 
+{
+"name": "Descargar ACESTREAM",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/5456_10039.png",
+"url": "https://play.google.com/store/apps/details?id=org.acestream.media", 
+"embed": true
+},
+{
+"name": "ACESOPLISTING",
+"image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8357_9187.png",
+"url": "http://acesoplisting.in", 
+"embed": true
+},
+{                    
+"name": "TORRENT-TV",                  "image": "http://www.socialcreator.com/srv/imgs/ti_imgs/8357_9187.png",                     
+"url": "http://www.torrent-tv.gr/livematches.php",                    
+"embed": true                 
+}
+] 
+} 
+] 
+}
+
